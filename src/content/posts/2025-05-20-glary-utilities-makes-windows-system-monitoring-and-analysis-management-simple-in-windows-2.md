@@ -2,7 +2,7 @@
 title: "Glary Utilities Makes Windows System Monitoring and Analysis Management Simple in Windows"
 date: 2025-05-20
 slug: "glary-utilities-makes-windows-system-monitoring-and-analysis-management-simple-in-windows-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

@@ -2,7 +2,7 @@
 title: "Can Free Software Help with File Backup Strategies? A Complete Guide for Windows Users"
 date: 2025-06-06
 slug: "can-free-software-help-with-file-backup-strategies-a-complete-guide-for-windows-users"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

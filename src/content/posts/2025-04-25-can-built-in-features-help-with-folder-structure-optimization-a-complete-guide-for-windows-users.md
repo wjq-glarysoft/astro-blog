@@ -2,7 +2,7 @@
 title: "Can Built-in Features Help with Folder Structure Optimization? A Complete Guide for Windows Users"
 date: 2025-04-25
 slug: "can-built-in-features-help-with-folder-structure-optimization-a-complete-guide-for-windows-users"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---
@@ -17,7 +17,7 @@ For Beginners: How Do I Get Started with Folder Structure Optimization?
 
 1\. Know Your Needs: Start by assessing the types of files you frequently use or create. These could be documents, images, videos, or software files. Categorize them broadly at first, such as 'Work', 'Personal', or 'Media'.
 
-2\. Use Descriptive Folder Names: Choose folder names that clearly describe the contents. For instance, instead of 'New Folder', use 'Project\_X\_2023'.
+2\. Use Descriptive Folder Names: Choose folder names that clearly describe the contents. For instance, instead of 'New Folder', use 'Project_X_2023'.
 
 3\. Leverage Default Libraries: Windows offers Libraries such as Documents, Pictures, Music, and Videos. Use these for their intended file types, and consider creating new libraries for specialized projects.
 
@@ -29,7 +29,7 @@ For Advanced Users: How Can I Further Optimize My Folder Structure?
 
 1\. Create a Hierarchical System: Develop a multi-tiered folder structure. For instance, within 'Work', you could have 'Clients', each containing folders for individual projects.
 
-2\. Implement Consistent Naming Conventions: Use a uniform naming scheme for files and folders to enhance searchability. A format like 'YYYY-MM-DD\_ProjectName\_Version' can be particularly effective.
+2\. Implement Consistent Naming Conventions: Use a uniform naming scheme for files and folders to enhance searchability. A format like 'YYYY-MM-DD_ProjectName_Version' can be particularly effective.
 
 3\. Automate with Batch Scripts: Employ batch scripts for repetitive tasks, such as creating standardized folders for new projects. A simple script can save considerable time and effort.
 

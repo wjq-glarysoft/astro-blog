@@ -2,7 +2,7 @@
 title: "Windows 11 System File Repair Techniques Optimization Made Easy"
 date: 2025-06-08
 slug: "windows-11-system-file-repair-techniques-optimization-made-easy"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

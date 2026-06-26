@@ -2,7 +2,7 @@
 title: "10 Free Software Features for Better Windows Command Line Tools Management"
 date: 2025-07-04
 slug: "10-free-software-features-for-better-windows-command-line-tools-management"
-categories: 
+categories:
   - "system-tools"
 author: "Nova"
 ---

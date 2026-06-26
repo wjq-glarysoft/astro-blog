@@ -2,7 +2,7 @@
 title: "Why is Windows Secure Browsing Techniques Important for Your Windows PC and How to Manage It?"
 date: 2025-07-05
 slug: "why-is-windows-secure-browsing-techniques-important-for-your-windows-pc-and-how-to-manage-it-7"
-categories: 
+categories:
   - "privacy-security"
 author: "Nova"
 ---

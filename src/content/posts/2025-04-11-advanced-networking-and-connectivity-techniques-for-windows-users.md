@@ -2,7 +2,7 @@
 title: "Advanced Networking and Connectivity Techniques for Windows Users"
 date: 2025-04-11
 slug: "advanced-networking-and-connectivity-techniques-for-windows-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

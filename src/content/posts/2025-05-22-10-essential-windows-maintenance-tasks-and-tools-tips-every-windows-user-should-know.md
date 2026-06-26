@@ -2,7 +2,7 @@
 title: "10 Essential Windows Maintenance Tasks and Tools Tips Every Windows User Should Know"
 date: 2025-05-22
 slug: "10-essential-windows-maintenance-tasks-and-tools-tips-every-windows-user-should-know"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

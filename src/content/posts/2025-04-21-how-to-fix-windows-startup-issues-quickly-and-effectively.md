@@ -2,7 +2,7 @@
 title: "How to Fix Windows Startup Issues Quickly and Effectively"
 date: 2025-04-21
 slug: "how-to-fix-windows-startup-issues-quickly-and-effectively"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

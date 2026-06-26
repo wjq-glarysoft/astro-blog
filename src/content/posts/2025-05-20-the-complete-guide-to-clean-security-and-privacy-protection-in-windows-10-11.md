@@ -2,7 +2,7 @@
 title: "The Complete Guide to Clean Security and Privacy Protection in Windows 10 & 11"
 date: 2025-05-20
 slug: "the-complete-guide-to-clean-security-and-privacy-protection-in-windows-10-11"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

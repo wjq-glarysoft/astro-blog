@@ -2,7 +2,7 @@
 title: "Built-in Features Makes Windows system repair tools Management Simple in Windows"
 date: 2025-06-08
 slug: "built-in-features-makes-windows-system-repair-tools-management-simple-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

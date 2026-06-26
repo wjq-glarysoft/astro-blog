@@ -2,7 +2,7 @@
 title: "organize Windows system optimization with Glary Utilities Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-09
 slug: "organize-windows-system-optimization-with-glary-utilities-like-a-pro-windows-10-11-guide"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

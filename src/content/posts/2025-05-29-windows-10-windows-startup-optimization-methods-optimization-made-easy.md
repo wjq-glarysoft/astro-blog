@@ -2,7 +2,7 @@
 title: "Windows 10 Windows Startup Optimization Methods: Optimization Made Easy"
 date: 2025-05-29
 slug: "windows-10-windows-startup-optimization-methods-optimization-made-easy"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

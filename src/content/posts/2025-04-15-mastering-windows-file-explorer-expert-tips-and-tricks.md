@@ -2,7 +2,7 @@
 title: "Mastering Windows File Explorer: Expert Tips and Tricks"
 date: 2025-04-15
 slug: "mastering-windows-file-explorer-expert-tips-and-tricks"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

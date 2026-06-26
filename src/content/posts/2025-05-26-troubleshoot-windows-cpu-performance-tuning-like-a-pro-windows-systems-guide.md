@@ -2,7 +2,7 @@
 title: "troubleshoot Windows CPU performance tuning Like a Pro: Windows Systems Guide"
 date: 2025-05-26
 slug: "troubleshoot-windows-cpu-performance-tuning-like-a-pro-windows-systems-guide"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

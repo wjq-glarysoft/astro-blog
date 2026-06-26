@@ -2,7 +2,7 @@
 title: "Effective Windows Update Repair Techniques: Best Practices"
 date: 2025-04-15
 slug: "effective-windows-update-repair-techniques-best-practices"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

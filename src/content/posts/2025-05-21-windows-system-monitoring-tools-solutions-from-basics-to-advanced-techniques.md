@@ -2,7 +2,7 @@
 title: "Windows System Monitoring Tools Solutions: From Basics to Advanced Techniques"
 date: 2025-05-21
 slug: "windows-system-monitoring-tools-solutions-from-basics-to-advanced-techniques"
-categories: 
+categories:
   - "system-tools"
 author: "Nova"
 ---

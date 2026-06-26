@@ -2,7 +2,7 @@
 title: "Essential Windows Registry Cleaning and Repair Techniques for Windows Users"
 date: 2025-05-23
 slug: "essential-windows-registry-cleaning-and-repair-techniques-for-windows-users"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

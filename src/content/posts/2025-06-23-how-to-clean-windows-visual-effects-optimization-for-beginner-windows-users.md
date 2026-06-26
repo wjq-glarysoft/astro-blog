@@ -2,7 +2,7 @@
 title: "How to Clean Windows Visual Effects Optimization for Beginner Windows Users?"
 date: 2025-06-23
 slug: "how-to-clean-windows-visual-effects-optimization-for-beginner-windows-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

@@ -2,7 +2,7 @@
 title: "Essential Windows System Information Tools Techniques for Windows Users"
 date: 2025-06-12
 slug: "essential-windows-system-information-tools-techniques-for-windows-users-5"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---
@@ -55,7 +55,7 @@ WMIC (Windows Management Instrumentation Command-line):
 
 PowerShell Cmdlets:
 
-\- Open PowerShell as administrator. - Use Get-ComputerInfo to get a broad report. - Try Get-WmiObject -Class Win32\_PhysicalMemory to retrieve RAM module details.
+\- Open PowerShell as administrator. - Use Get-ComputerInfo to get a broad report. - Try Get-WmiObject -Class Win32_PhysicalMemory to retrieve RAM module details.
 
 2\. Event Viewer
 

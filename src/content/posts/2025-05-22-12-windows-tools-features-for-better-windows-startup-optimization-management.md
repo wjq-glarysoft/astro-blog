@@ -2,7 +2,7 @@
 title: "12 Windows Tools Features for Better Windows Startup Optimization Management"
 date: 2025-05-22
 slug: "12-windows-tools-features-for-better-windows-startup-optimization-management"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---
@@ -37,7 +37,7 @@ Advanced Startup Optimization Techniques
 
 For those comfortable with advanced settings, the Windows Registry offers deeper control.
 
-\- Press Windows + R, type regedit, and hit Enter to open the Registry Editor. - Navigate to HKEY\_LOCAL\_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Run. - Here you can view and delete startup entries, but proceed with caution as incorrect changes can affect system stability.
+\- Press Windows + R, type regedit, and hit Enter to open the Registry Editor. - Navigate to HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Run. - Here you can view and delete startup entries, but proceed with caution as incorrect changes can affect system stability.
 
 2\. How to Use Windows Services for Startup Management
 

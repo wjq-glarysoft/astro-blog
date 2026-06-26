@@ -2,7 +2,7 @@
 title: "10 Proven Methods to Clean Windows System Optimization with Glary Utilities in Windows"
 date: 2025-06-22
 slug: "10-proven-methods-to-clean-windows-system-optimization-with-glary-utilities-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

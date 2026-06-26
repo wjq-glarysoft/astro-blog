@@ -2,7 +2,7 @@
 title: "Advanced's Guide to Essential Windows Maintenance Tasks and Tools Management in Windows"
 date: 2025-06-12
 slug: "advanceds-guide-to-essential-windows-maintenance-tasks-and-tools-management-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "12 Essential Windows Startup Optimization Methods Tips Every Windows User Should Know"
 date: 2025-05-30
 slug: "12-essential-windows-startup-optimization-methods-tips-every-windows-user-should-know-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

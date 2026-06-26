@@ -2,7 +2,7 @@
 title: "A Beginner's Guide to Windows System Monitoring and Analysis"
 date: 2025-04-13
 slug: "a-beginners-guide-to-windows-system-monitoring-and-analysis"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

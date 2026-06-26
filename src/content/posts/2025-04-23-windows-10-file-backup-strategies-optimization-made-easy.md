@@ -2,7 +2,7 @@
 title: "Windows 10 File Backup Strategies Optimization Made Easy"
 date: 2025-04-23
 slug: "windows-10-file-backup-strategies-optimization-made-easy"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

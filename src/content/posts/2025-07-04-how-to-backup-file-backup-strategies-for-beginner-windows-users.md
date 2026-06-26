@@ -2,7 +2,7 @@
 title: "How to Backup File Backup Strategies for Beginner Windows Users?"
 date: 2025-07-04
 slug: "how-to-backup-file-backup-strategies-for-beginner-windows-users"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

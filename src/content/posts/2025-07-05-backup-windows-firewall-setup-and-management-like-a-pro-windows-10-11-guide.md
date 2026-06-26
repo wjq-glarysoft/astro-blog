@@ -2,7 +2,7 @@
 title: "backup Windows firewall setup and management Like a Pro: Windows 10 & 11 Guide"
 date: 2025-07-05
 slug: "backup-windows-firewall-setup-and-management-like-a-pro-windows-10-11-guide"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

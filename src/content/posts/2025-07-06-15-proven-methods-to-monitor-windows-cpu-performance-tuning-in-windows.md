@@ -2,7 +2,7 @@
 title: "15 Proven Methods to Monitor Windows CPU Performance Tuning in Windows"
 date: 2025-07-06
 slug: "15-proven-methods-to-monitor-windows-cpu-performance-tuning-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

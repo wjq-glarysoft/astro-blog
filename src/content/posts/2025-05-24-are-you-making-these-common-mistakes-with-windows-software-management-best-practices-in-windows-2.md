@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Windows Software Management Best Practices in Windows?"
 date: 2025-05-24
 slug: "are-you-making-these-common-mistakes-with-windows-software-management-best-practices-in-windows-2"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---
@@ -49,7 +49,7 @@ Steps: 1. Open Glary Utilities. 2. Select "Advanced Tools" > "Uninstall Manager"
 
 How Can I Audit and Harden My Installed Software Portfolio?
 
-Regularly auditing installed programs helps you spot outdated or potentially vulnerable software. - Use PowerShell’s "Get-WmiObject Win32\_Product" to list all installed programs. - Cross-reference software versions with official vendor security advisories.
+Regularly auditing installed programs helps you spot outdated or potentially vulnerable software. - Use PowerShell’s "Get-WmiObject Win32_Product" to list all installed programs. - Cross-reference software versions with official vendor security advisories.
 
 Glary Utilities’ "Software Update" and "Security Process Explorer" help identify old or suspicious programs, alerting you to replace or remove them.
 

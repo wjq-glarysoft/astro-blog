@@ -2,7 +2,7 @@
 title: "troubleshoot Windows data encryption methods Like a Pro: Windows Systems Guide"
 date: 2025-05-29
 slug: "troubleshoot-windows-data-encryption-methods-like-a-pro-windows-systems-guide"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

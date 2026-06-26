@@ -2,7 +2,7 @@
 title: "Can Built-in Features Help with Windows Startup Optimization Methods? A Complete Guide for Windows Users"
 date: 2025-07-04
 slug: "can-built-in-features-help-with-windows-startup-optimization-methods-a-complete-guide-for-windows-users-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

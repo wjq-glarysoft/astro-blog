@@ -2,7 +2,7 @@
 title: "Why is Windows Task Scheduling Important for Your Windows PC and How to Manage It?"
 date: 2025-07-05
 slug: "why-is-windows-task-scheduling-important-for-your-windows-pc-and-how-to-manage-it-3"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

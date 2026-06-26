@@ -2,7 +2,7 @@
 title: "Why is Essential Windows Maintenance Tasks and Tools Important for Your Windows PC and How to Manage It?"
 date: 2025-05-20
 slug: "why-is-essential-windows-maintenance-tasks-and-tools-important-for-your-windows-pc-and-how-to-manage-it"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

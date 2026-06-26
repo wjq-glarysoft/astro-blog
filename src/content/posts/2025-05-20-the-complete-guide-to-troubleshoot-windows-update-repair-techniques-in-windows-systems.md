@@ -2,7 +2,7 @@
 title: "The Complete Guide to Troubleshoot Windows Update Repair Techniques in Windows Systems"
 date: 2025-05-20
 slug: "the-complete-guide-to-troubleshoot-windows-update-repair-techniques-in-windows-systems"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

@@ -2,7 +2,7 @@
 title: "10 Windows Tools Features for Better Windows System Information Tools Management"
 date: 2025-05-07
 slug: "10-windows-tools-features-for-better-windows-system-information-tools-management"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

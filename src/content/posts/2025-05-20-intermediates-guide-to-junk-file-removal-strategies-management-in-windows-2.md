@@ -2,7 +2,7 @@
 title: "Intermediate's Guide to Junk File Removal Strategies Management in Windows"
 date: 2025-05-20
 slug: "intermediates-guide-to-junk-file-removal-strategies-management-in-windows-2"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Finn"
 ---

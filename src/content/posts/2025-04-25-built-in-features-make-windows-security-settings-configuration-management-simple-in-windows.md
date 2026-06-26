@@ -2,7 +2,7 @@
 title: "Built-in Features Make Windows Security Settings Configuration Management Simple in Windows"
 date: 2025-04-25
 slug: "built-in-features-make-windows-security-settings-configuration-management-simple-in-windows"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

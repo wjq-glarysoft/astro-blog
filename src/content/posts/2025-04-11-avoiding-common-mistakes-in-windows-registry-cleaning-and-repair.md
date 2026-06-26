@@ -2,7 +2,7 @@
 title: "Avoiding Common Mistakes in Windows Registry Cleaning and Repair"
 date: 2025-04-11
 slug: "avoiding-common-mistakes-in-windows-registry-cleaning-and-repair"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

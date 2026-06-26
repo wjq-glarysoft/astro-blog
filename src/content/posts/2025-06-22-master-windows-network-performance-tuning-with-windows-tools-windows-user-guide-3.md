@@ -2,7 +2,7 @@
 title: "Master Windows Network Performance Tuning with Windows Tools: Windows User Guide"
 date: 2025-06-22
 slug: "master-windows-network-performance-tuning-with-windows-tools-windows-user-guide-3"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---
@@ -55,7 +55,7 @@ What Advanced Network Tuning Options Are Available?
 
 Tweak Windows Registry for Network Performance Caution: Registry tweaks are advanced and can affect system stability. Always backup your registry before changes.
 
-Increase TCP/IP Connection Limit 1. Press Windows+R, type “regedit,” and press Enter. 2. Navigate to HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\Tcpip\\Parameters. 3. Right-click in the right pane and create a new DWORD (32-bit) Value named “TcpNumConnections.” 4. Set its value (decimal) to 500 or as needed.
+Increase TCP/IP Connection Limit 1. Press Windows+R, type “regedit,” and press Enter. 2. Navigate to HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\Tcpip\\Parameters. 3. Right-click in the right pane and create a new DWORD (32-bit) Value named “TcpNumConnections.” 4. Set its value (decimal) to 500 or as needed.
 
 Enable Receive Side Scaling (RSS) This spreads network traffic processing across multiple CPU cores:
 

@@ -2,7 +2,7 @@
 title: "What's the Best Way to Backup Windows Update Repair Techniques in Windows?"
 date: 2025-06-08
 slug: "whats-the-best-way-to-backup-windows-update-repair-techniques-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

@@ -2,7 +2,7 @@
 title: "Beginner's Guide to Windows Disk Cleanup and Optimization Management in Windows"
 date: 2025-04-25
 slug: "beginners-guide-to-windows-disk-cleanup-and-optimization-management-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Finn"
 ---

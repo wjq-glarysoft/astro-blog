@@ -2,7 +2,7 @@
 title: "Effective Windows Data Encryption Methods Management for Windows 11 Users"
 date: 2025-06-27
 slug: "effective-windows-data-encryption-methods-management-for-windows-11-users-5"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

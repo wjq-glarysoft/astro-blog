@@ -2,7 +2,7 @@
 title: "Customizing Windows System Tools: Expert Recommendations for Enhanced Performance"
 date: 2025-04-15
 slug: "customizing-windows-system-tools-expert-recommendations-for-enhanced-performance"
-categories: 
+categories:
   - "system-tools"
 author: "Nova"
 ---

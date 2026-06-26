@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Monitor Windows Privacy Enhancements in Windows 10 & 11"
 date: 2025-05-20
 slug: "top-10-ways-to-monitor-windows-privacy-enhancements-in-windows-10-11"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---
@@ -31,7 +31,7 @@ For Advanced Users: Use the Group Policy Editor to enforce policy settings on di
 
 For Beginners: In the Privacy settings, find 'General' and turn off the option 'Let apps use advertising ID to make ads more interesting to you based on your app activity'.
 
-For Advanced Users: Access the Registry Editor by typing 'regedit' in the Run dialog, and navigate to HKEY\_CURRENT\_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\AdvertisingInfo. Set 'Enabled' to 0 to disable ad tracking system-wide.
+For Advanced Users: Access the Registry Editor by typing 'regedit' in the Run dialog, and navigate to HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\AdvertisingInfo. Set 'Enabled' to 0 to disable ad tracking system-wide.
 
 5\. What About Activity History?
 
@@ -55,7 +55,7 @@ For Advanced Users: Use the Command Prompt to manage network configurations. Typ
 
 For Beginners: Access Cortana settings via the Start menu or simply search 'Cortana'. Adjust permissions by turning off any unnecessary data sharing.
 
-For Advanced Users: Use the Registry Editor to tweak Cortana settings. Navigate to HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Windows Search and configure privacy settings as needed.
+For Advanced Users: Use the Registry Editor to tweak Cortana settings. Navigate to HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Windows Search and configure privacy settings as needed.
 
 9\. How to Monitor Privacy Enhancements Using Glary Utilities?
 

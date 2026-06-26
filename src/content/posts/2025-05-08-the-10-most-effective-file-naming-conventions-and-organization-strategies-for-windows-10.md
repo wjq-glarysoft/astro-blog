@@ -2,7 +2,7 @@
 title: "The 10 Most Effective File Naming Conventions and Organization Strategies for Windows 10"
 date: 2025-05-08
 slug: "the-10-most-effective-file-naming-conventions-and-organization-strategies-for-windows-10"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---
@@ -13,15 +13,15 @@ What Are File Naming Conventions?
 
 File naming conventions are systematic methods for naming your files and folders in a consistent manner. This helps in easily identifying, sorting, and retrieving files. Here are some strategies to implement:
 
-1\. Consistent Naming Patterns Choose a format, such as 'YYYY-MM-DD\_Description' for project files. This maintains chronological order and aids in quickly locating files by date. For example, '2023-10-05\_ProjectProposal'.
+1\. Consistent Naming Patterns Choose a format, such as 'YYYY-MM-DD_Description' for project files. This maintains chronological order and aids in quickly locating files by date. For example, '2023-10-05_ProjectProposal'.
 
-2\. Use Descriptive Names Be explicit about the file's content. Instead of 'Document1', use 'BudgetReport\_2023\_Q4'. This immediately conveys the file’s purpose without needing to open it.
+2\. Use Descriptive Names Be explicit about the file's content. Instead of 'Document1', use 'BudgetReport_2023_Q4'. This immediately conveys the file’s purpose without needing to open it.
 
 3\. Avoid Special Characters Avoid using special characters like / \\ : \* ? " |. Windows does not support these in file names and it can cause issues with file access.
 
-4\. Consistent Case Usage Decide between camelCase, TitleCase, or lowercase and stick with it. This creates uniformity and prevents confusion. For example, 'AnnualReport2023' or 'annual\_report\_2023'.
+4\. Consistent Case Usage Decide between camelCase, TitleCase, or lowercase and stick with it. This creates uniformity and prevents confusion. For example, 'AnnualReport2023' or 'annual_report_2023'.
 
-5\. Version Control Include a version number in your file names for drafts and updates. 'Document\_v2' makes it clear which is the latest version without opening each file.
+5\. Version Control Include a version number in your file names for drafts and updates. 'Document_v2' makes it clear which is the latest version without opening each file.
 
 6\. Avoid Long File Names Windows has a character limit for paths (260 characters), so keep it concise. Long file names can cause errors during file transfers or when opening.
 

@@ -2,7 +2,7 @@
 title: "When Should You Monitor Windows User Account Security on Your Windows Computer?"
 date: 2025-06-08
 slug: "when-should-you-monitor-windows-user-account-security-on-your-windows-computer"
-categories: 
+categories:
   - "privacy-security"
 author: "Nova"
 ---

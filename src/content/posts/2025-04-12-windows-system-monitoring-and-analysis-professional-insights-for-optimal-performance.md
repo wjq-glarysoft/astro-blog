@@ -2,7 +2,7 @@
 title: "Windows System Monitoring and Analysis: Professional Insights for Optimal Performance"
 date: 2025-04-12
 slug: "windows-system-monitoring-and-analysis-professional-insights-for-optimal-performance"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

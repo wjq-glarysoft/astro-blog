@@ -2,7 +2,7 @@
 title: "What's the Best Way to Secure File Management and Organization in Windows?"
 date: 2025-05-21
 slug: "whats-the-best-way-to-secure-file-management-and-organization-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---
@@ -17,7 +17,7 @@ For Beginners: How to Start Organizing Your Files
 
 1\. Create a Logical Folder Structure Start by organizing your personal and work files into a hierarchy that makes sense to you. For example, you might create folders such as "Documents," "Photos," "Music," and "Projects." Within these, add subfolders like "2023 Documents" or "Vacation Photos" to further categorize your files.
 
-2\. Use Descriptive File Names Rename files with clear and descriptive names. Instead of leaving a file as "IMG\_1234.jpg," rename it to "Beach\_Vacation\_2023.jpg" for better identification.
+2\. Use Descriptive File Names Rename files with clear and descriptive names. Instead of leaving a file as "IMG_1234.jpg," rename it to "Beach_Vacation_2023.jpg" for better identification.
 
 3\. Utilize File Tags Windows allows you to add tags to files for easier searching. Right-click on a file, go to 'Properties,' then 'Details,' and add relevant tags under the 'Tags' section.
 

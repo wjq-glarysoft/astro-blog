@@ -2,7 +2,7 @@
 title: "Beginner's Guide to Windows System Information Tools Management in Windows"
 date: 2025-05-24
 slug: "beginners-guide-to-windows-system-information-tools-management-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---

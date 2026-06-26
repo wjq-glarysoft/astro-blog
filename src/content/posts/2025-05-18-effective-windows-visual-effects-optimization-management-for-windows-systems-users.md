@@ -2,7 +2,7 @@
 title: "Effective Windows Visual Effects Optimization Management for Windows Systems Users"
 date: 2025-05-18
 slug: "effective-windows-visual-effects-optimization-management-for-windows-systems-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

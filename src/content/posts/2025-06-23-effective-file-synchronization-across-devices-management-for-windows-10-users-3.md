@@ -2,7 +2,7 @@
 title: "Effective file synchronization across devices Management for Windows 10 Users"
 date: 2025-06-23
 slug: "effective-file-synchronization-across-devices-management-for-windows-10-users-3"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

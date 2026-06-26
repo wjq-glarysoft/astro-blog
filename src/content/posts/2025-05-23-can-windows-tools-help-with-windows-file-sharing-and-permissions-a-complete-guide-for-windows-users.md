@@ -2,7 +2,7 @@
 title: "Can Windows Tools Help with Windows File Sharing and Permissions? A Complete Guide for Windows Users"
 date: 2025-05-23
 slug: "can-windows-tools-help-with-windows-file-sharing-and-permissions-a-complete-guide-for-windows-users"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

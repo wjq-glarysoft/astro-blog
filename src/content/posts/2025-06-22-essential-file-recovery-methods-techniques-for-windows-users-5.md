@@ -2,7 +2,7 @@
 title: "Essential file recovery methods Techniques for Windows Users"
 date: 2025-06-22
 slug: "essential-file-recovery-methods-techniques-for-windows-users-5"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

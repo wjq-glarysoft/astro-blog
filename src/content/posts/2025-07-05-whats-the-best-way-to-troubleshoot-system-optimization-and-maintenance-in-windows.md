@@ -2,7 +2,7 @@
 title: "What's the Best Way to Troubleshoot System Optimization and Maintenance in Windows?"
 date: 2025-07-05
 slug: "whats-the-best-way-to-troubleshoot-system-optimization-and-maintenance-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

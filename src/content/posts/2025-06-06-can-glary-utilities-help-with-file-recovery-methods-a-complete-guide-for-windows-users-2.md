@@ -2,7 +2,7 @@
 title: "Can Glary Utilities Help with File Recovery Methods? A Complete Guide for Windows Users"
 date: 2025-06-06
 slug: "can-glary-utilities-help-with-file-recovery-methods-a-complete-guide-for-windows-users-2"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

@@ -2,7 +2,7 @@
 title: "Effective file synchronization across devices Management for Windows 11 Users"
 date: 2025-06-22
 slug: "effective-file-synchronization-across-devices-management-for-windows-11-users"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

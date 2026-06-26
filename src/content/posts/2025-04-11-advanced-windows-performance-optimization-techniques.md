@@ -2,7 +2,7 @@
 title: "Advanced Windows Performance Optimization Techniques"
 date: 2025-04-11
 slug: "advanced-windows-performance-optimization-techniques"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

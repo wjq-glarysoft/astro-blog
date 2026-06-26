@@ -2,7 +2,7 @@
 title: "Built-in Features Makes Windows Data Encryption Methods Management Simple in Windows"
 date: 2025-05-24
 slug: "built-in-features-makes-windows-data-encryption-methods-management-simple-in-windows"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

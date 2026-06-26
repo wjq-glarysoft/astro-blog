@@ -2,7 +2,7 @@
 title: "10 Glary Utilities Features for Better File Recovery Methods Management"
 date: 2025-05-07
 slug: "10-glary-utilities-features-for-better-file-recovery-methods-management-2"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

@@ -2,7 +2,7 @@
 title: "Effective file compression techniques Management for Windows Systems Users"
 date: 2025-06-27
 slug: "effective-file-compression-techniques-management-for-windows-systems-users-2"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

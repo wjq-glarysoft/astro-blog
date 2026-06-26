@@ -2,7 +2,7 @@
 title: "The 7 Most Effective Windows Startup Optimization Strategies for Windows 10"
 date: 2025-07-05
 slug: "the-7-most-effective-windows-startup-optimization-strategies-for-windows-10"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "Essential Windows Network Performance Tuning Techniques for Windows Users"
 date: 2025-06-12
 slug: "essential-windows-network-performance-tuning-techniques-for-windows-users-3"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

@@ -2,7 +2,7 @@
 title: "The Complete Guide to Organize Windows User Account Security in Windows 10 & 11"
 date: 2025-06-09
 slug: "the-complete-guide-to-organize-windows-user-account-security-in-windows-10-11"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

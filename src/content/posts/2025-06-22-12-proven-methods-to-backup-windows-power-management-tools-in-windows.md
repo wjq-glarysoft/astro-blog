@@ -2,7 +2,7 @@
 title: "12 Proven Methods to Backup Windows Power Management Tools in Windows"
 date: 2025-06-22
 slug: "12-proven-methods-to-backup-windows-power-management-tools-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---
@@ -25,7 +25,7 @@ For Advanced Users: - Batch export all plans using a script, or schedule regular
 
 Method 2: Backup Power Settings via Registry Editor
 
-For Beginners: 1. Press Win + R, type regedit, and press Enter. 2. Navigate to HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Power. 3. Right-click the Power key, select Export, name your file, and save it in a secure folder.
+For Beginners: 1. Press Win + R, type regedit, and press Enter. 2. Navigate to HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Power. 3. Right-click the Power key, select Export, name your file, and save it in a secure folder.
 
 For Advanced Users: - Use PowerShell scripts to automate registry backup and restoration tasks.
 

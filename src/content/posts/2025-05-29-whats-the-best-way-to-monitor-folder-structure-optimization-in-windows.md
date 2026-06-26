@@ -2,7 +2,7 @@
 title: "What's the Best Way to Monitor Folder Structure Optimization in Windows?"
 date: 2025-05-29
 slug: "whats-the-best-way-to-monitor-folder-structure-optimization-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

@@ -2,7 +2,7 @@
 title: "When Should You Monitor Windows System Information Tools on Your Windows Computer?"
 date: 2025-06-09
 slug: "when-should-you-monitor-windows-system-information-tools-on-your-windows-computer"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

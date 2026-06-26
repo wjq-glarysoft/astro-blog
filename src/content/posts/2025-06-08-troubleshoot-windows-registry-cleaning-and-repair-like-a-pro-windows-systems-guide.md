@@ -2,7 +2,7 @@
 title: "troubleshoot Windows registry cleaning and repair Like a Pro: Windows Systems Guide"
 date: 2025-06-08
 slug: "troubleshoot-windows-registry-cleaning-and-repair-like-a-pro-windows-systems-guide"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---
@@ -53,7 +53,7 @@ Combining Tools for Comprehensive Repair
 
 For persistent issues, combine Glary Utilities’ automated repair with manual checks. For example, after using Glary Utilities:
 
-\- Search for leftover entries from uninstalled programs under HKEY\_LOCAL\_MACHINE\\Software or HKEY\_CURRENT\_USER\\Software. - Remove only clearly identifiable orphaned keys.
+\- Search for leftover entries from uninstalled programs under HKEY_LOCAL_MACHINE\\Software or HKEY_CURRENT_USER\\Software. - Remove only clearly identifiable orphaned keys.
 
 Real-World Example: Fixing a Program That Won’t Uninstall
 

@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Windows System Monitoring and Analysis in Windows?"
 date: 2025-04-25
 slug: "are-you-making-these-common-mistakes-with-windows-system-monitoring-and-analysis-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

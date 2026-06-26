@@ -2,7 +2,7 @@
 title: "Mastering Windows Task Scheduling: Expert Techniques and Tools"
 date: 2025-04-15
 slug: "mastering-windows-task-scheduling-expert-techniques-and-tools"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

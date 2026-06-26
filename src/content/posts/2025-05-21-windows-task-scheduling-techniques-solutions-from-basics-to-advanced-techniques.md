@@ -2,7 +2,7 @@
 title: "Windows Task Scheduling Techniques Solutions: From Basics to Advanced Techniques"
 date: 2025-05-21
 slug: "windows-task-scheduling-techniques-solutions-from-basics-to-advanced-techniques"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---

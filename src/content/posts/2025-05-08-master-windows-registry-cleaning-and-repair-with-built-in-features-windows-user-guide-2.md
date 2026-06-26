@@ -2,7 +2,7 @@
 title: "Master Windows Registry Cleaning and Repair with Built-in Features: Windows User Guide"
 date: 2025-05-08
 slug: "master-windows-registry-cleaning-and-repair-with-built-in-features-windows-user-guide-2"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

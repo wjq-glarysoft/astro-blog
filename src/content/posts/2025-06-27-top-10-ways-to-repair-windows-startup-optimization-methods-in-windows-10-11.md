@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Repair Windows Startup Optimization Methods in Windows 10 & 11"
 date: 2025-06-27
 slug: "top-10-ways-to-repair-windows-startup-optimization-methods-in-windows-10-11"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "Effective Windows Firewall Setup and Management for Windows 11 Users"
 date: 2025-05-01
 slug: "effective-windows-firewall-setup-and-management-for-windows-11-users"
-categories: 
+categories:
   - "privacy-security"
 author: "Skher"
 ---

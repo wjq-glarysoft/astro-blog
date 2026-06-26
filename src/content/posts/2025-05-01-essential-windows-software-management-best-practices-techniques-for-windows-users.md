@@ -2,7 +2,7 @@
 title: "Essential Windows Software Management Best Practices Techniques for Windows Users"
 date: 2025-05-01
 slug: "essential-windows-software-management-best-practices-techniques-for-windows-users"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

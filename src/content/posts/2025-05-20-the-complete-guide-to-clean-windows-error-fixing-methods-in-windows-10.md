@@ -2,7 +2,7 @@
 title: "The Complete Guide to Clean Windows Error Fixing Methods in Windows 10"
 date: 2025-05-20
 slug: "the-complete-guide-to-clean-windows-error-fixing-methods-in-windows-10"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Finn"
 ---

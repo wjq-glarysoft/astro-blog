@@ -2,7 +2,7 @@
 title: "When Should You Backup Windows Backup and Restore Utilities on Your Windows Computer?"
 date: 2025-07-05
 slug: "when-should-you-backup-windows-backup-and-restore-utilities-on-your-windows-computer"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

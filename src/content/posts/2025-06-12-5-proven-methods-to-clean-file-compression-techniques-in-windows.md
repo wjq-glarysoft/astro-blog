@@ -2,7 +2,7 @@
 title: "5 Proven Methods to Clean File Compression Techniques in Windows"
 date: 2025-06-12
 slug: "5-proven-methods-to-clean-file-compression-techniques-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Skher"
 ---

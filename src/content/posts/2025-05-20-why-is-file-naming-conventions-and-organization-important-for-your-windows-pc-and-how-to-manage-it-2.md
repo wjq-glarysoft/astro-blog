@@ -2,7 +2,7 @@
 title: "Why is file naming conventions and organization Important for Your Windows PC and How to Manage It?"
 date: 2025-05-20
 slug: "why-is-file-naming-conventions-and-organization-important-for-your-windows-pc-and-how-to-manage-it-2"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---
@@ -15,21 +15,21 @@ File naming conventions are a set of rules and guidelines that dictate how files
 
 Beginner Tips: Basic File Naming Practices
 
-1\. Be Descriptive: Use descriptive names that clearly indicate the content or purpose of the file. For example, instead of naming a document "Doc1", use "Quarterly\_Report\_2023".
+1\. Be Descriptive: Use descriptive names that clearly indicate the content or purpose of the file. For example, instead of naming a document "Doc1", use "Quarterly_Report_2023".
 
 2\. Keep It Simple: Avoid using overly complex names with special characters. Stick to letters, numbers, and underscores (\_).
 
-3\. Use Dates: Include dates in file names for documents that are updated regularly. This helps track versions over time, e.g., "Meeting\_Notes\_2023\_10\_15".
+3\. Use Dates: Include dates in file names for documents that are updated regularly. This helps track versions over time, e.g., "Meeting_Notes_2023_10_15".
 
 4\. Consistency is Key: Maintain a consistent naming pattern across similar files. This makes your system predictable and easier to navigate.
 
 Advanced Tips: Optimizing File Naming for Large Projects
 
-1\. Implement Version Control: For projects with multiple revisions, adopt a version numbering system. For instance, "Project\_Plan\_v1", "Project\_Plan\_v2".
+1\. Implement Version Control: For projects with multiple revisions, adopt a version numbering system. For instance, "Project_Plan_v1", "Project_Plan_v2".
 
 2\. Use Abbreviations Wisely: For lengthy names, use clear abbreviations that are easy to remember and understand, e.g., "Yr" for Year, "Qtr" for Quarter.
 
-3\. Group by Type: Consider incorporating file type or category in the name, such as "Invoice\_2023\_09\_Qtr3".
+3\. Group by Type: Consider incorporating file type or category in the name, such as "Invoice_2023_09_Qtr3".
 
 Why is Folder Organization Important?
 
@@ -45,7 +45,7 @@ Beginner Techniques: Setting Up Basic Folder Structures
 
 Advanced Strategies: Enhancing Folder Organization
 
-1\. Project-Based Folders: For complex tasks, create a dedicated folder for each project, containing all related files and subfolders, e.g., "Project\_X\\Research", "Project\_X\\Drafts".
+1\. Project-Based Folders: For complex tasks, create a dedicated folder for each project, containing all related files and subfolders, e.g., "Project_X\\Research", "Project_X\\Drafts".
 
 2\. Utilize Templates: Create folder structures as templates for recurring tasks. Duplicate these templates when starting similar projects to save time.
 

@@ -2,7 +2,7 @@
 title: "Advanced's Guide to Windows Diagnostic Utilities Management in Windows"
 date: 2025-04-26
 slug: "advanceds-guide-to-windows-diagnostic-utilities-management-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

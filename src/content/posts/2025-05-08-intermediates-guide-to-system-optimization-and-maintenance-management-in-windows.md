@@ -2,7 +2,7 @@
 title: "Intermediate's Guide to System Optimization and Maintenance Management in Windows"
 date: 2025-05-08
 slug: "intermediates-guide-to-system-optimization-and-maintenance-management-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

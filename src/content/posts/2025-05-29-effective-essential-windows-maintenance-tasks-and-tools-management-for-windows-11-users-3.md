@@ -2,7 +2,7 @@
 title: "Effective Essential Windows Maintenance Tasks and Tools Management for Windows 11 Users"
 date: 2025-05-29
 slug: "effective-essential-windows-maintenance-tasks-and-tools-management-for-windows-11-users-3"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

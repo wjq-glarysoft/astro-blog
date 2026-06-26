@@ -2,7 +2,7 @@
 title: "Advanced Keyboard Shortcuts and Productivity Tips for Windows Users"
 date: 2025-04-13
 slug: "advanced-keyboard-shortcuts-and-productivity-tips-for-windows-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

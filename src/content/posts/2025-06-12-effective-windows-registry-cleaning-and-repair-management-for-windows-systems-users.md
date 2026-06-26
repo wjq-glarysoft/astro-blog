@@ -2,7 +2,7 @@
 title: "Effective Windows Registry Cleaning and Repair Management for Windows Systems Users"
 date: 2025-06-12
 slug: "effective-windows-registry-cleaning-and-repair-management-for-windows-systems-users"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

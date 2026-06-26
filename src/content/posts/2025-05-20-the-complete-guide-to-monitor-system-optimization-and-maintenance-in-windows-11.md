@@ -2,7 +2,7 @@
 title: "The Complete Guide to Monitor System Optimization and Maintenance in Windows 11"
 date: 2025-05-20
 slug: "the-complete-guide-to-monitor-system-optimization-and-maintenance-in-windows-11"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

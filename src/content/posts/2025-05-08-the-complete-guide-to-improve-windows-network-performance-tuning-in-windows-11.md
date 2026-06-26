@@ -2,7 +2,7 @@
 title: "The Complete Guide to Improve Windows Network Performance Tuning in Windows 11"
 date: 2025-05-08
 slug: "the-complete-guide-to-improve-windows-network-performance-tuning-in-windows-11"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

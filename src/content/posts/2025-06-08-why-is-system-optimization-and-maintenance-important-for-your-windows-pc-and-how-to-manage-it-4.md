@@ -2,7 +2,7 @@
 title: "Why is System Optimization and Maintenance Important for Your Windows PC and How to Manage It?"
 date: 2025-06-08
 slug: "why-is-system-optimization-and-maintenance-important-for-your-windows-pc-and-how-to-manage-it-4"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

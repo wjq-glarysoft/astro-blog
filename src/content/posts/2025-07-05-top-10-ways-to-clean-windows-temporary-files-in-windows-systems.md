@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Clean Windows Temporary Files in Windows Systems"
 date: 2025-07-05
 slug: "top-10-ways-to-clean-windows-temporary-files-in-windows-systems"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

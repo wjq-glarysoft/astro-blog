@@ -2,7 +2,7 @@
 title: "How to Organize Windows Security Settings Configuration for Advanced Windows Users?"
 date: 2025-05-20
 slug: "how-to-organize-windows-security-settings-configuration-for-advanced-windows-users"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

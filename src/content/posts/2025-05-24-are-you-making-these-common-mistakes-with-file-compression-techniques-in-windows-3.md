@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with File Compression Techniques in Windows?"
 date: 2025-05-24
 slug: "are-you-making-these-common-mistakes-with-file-compression-techniques-in-windows-3"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

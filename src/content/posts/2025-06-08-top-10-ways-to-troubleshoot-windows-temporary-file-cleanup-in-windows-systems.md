@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Troubleshoot Windows Temporary File Cleanup in Windows Systems"
 date: 2025-06-08
 slug: "top-10-ways-to-troubleshoot-windows-temporary-file-cleanup-in-windows-systems"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "Essential Windows Temporary File Cleanup Techniques for Windows Users"
 date: 2025-05-23
 slug: "essential-windows-temporary-file-cleanup-techniques-for-windows-users"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

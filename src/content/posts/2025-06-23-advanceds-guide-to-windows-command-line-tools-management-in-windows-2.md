@@ -2,7 +2,7 @@
 title: "Advanced's Guide to Windows Command Line Tools Management in Windows"
 date: 2025-06-23
 slug: "advanceds-guide-to-windows-command-line-tools-management-in-windows-2"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

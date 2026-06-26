@@ -2,7 +2,7 @@
 title: "10 Essential Windows Memory Optimization Techniques Every Windows User Should Know"
 date: 2025-06-22
 slug: "10-essential-windows-memory-optimization-techniques-every-windows-user-should-know"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

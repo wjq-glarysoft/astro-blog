@@ -2,7 +2,7 @@
 title: "Glary Utilities Makes Windows Visual Effects Optimization Management Simple in Windows"
 date: 2025-05-20
 slug: "glary-utilities-makes-windows-visual-effects-optimization-management-simple-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

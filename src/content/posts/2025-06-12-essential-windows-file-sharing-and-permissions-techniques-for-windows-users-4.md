@@ -2,7 +2,7 @@
 title: "Essential Windows file sharing and permissions Techniques for Windows Users"
 date: 2025-06-12
 slug: "essential-windows-file-sharing-and-permissions-techniques-for-windows-users-4"
-categories: 
+categories:
   - "files-folders"
 author: "Finn"
 ---

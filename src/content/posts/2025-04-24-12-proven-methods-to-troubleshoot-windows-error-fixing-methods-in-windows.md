@@ -2,7 +2,7 @@
 title: "12 Proven Methods to Troubleshoot Windows Error Fixing Methods in Windows"
 date: 2025-04-24
 slug: "12-proven-methods-to-troubleshoot-windows-error-fixing-methods-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

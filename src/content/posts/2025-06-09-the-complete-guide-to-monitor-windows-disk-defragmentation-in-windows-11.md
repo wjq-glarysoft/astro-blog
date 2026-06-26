@@ -2,7 +2,7 @@
 title: "The Complete Guide to Monitor Windows Disk Defragmentation in Windows 11"
 date: 2025-06-09
 slug: "the-complete-guide-to-monitor-windows-disk-defragmentation-in-windows-11"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

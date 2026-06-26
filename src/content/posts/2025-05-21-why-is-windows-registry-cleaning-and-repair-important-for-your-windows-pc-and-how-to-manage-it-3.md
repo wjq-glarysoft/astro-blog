@@ -2,7 +2,7 @@
 title: "Why is Windows Registry Cleaning and Repair Important for Your Windows PC and How to Manage It?"
 date: 2025-05-21
 slug: "why-is-windows-registry-cleaning-and-repair-important-for-your-windows-pc-and-how-to-manage-it-3"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

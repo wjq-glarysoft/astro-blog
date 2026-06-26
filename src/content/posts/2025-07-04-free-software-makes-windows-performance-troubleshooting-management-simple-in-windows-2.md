@@ -2,7 +2,7 @@
 title: "Free Software Makes Windows Performance Troubleshooting Management Simple in Windows"
 date: 2025-07-04
 slug: "free-software-makes-windows-performance-troubleshooting-management-simple-in-windows-2"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

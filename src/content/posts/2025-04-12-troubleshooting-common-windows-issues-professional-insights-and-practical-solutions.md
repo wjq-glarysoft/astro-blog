@@ -2,7 +2,7 @@
 title: "Troubleshooting Common Windows Issues: Professional Insights and Practical Solutions"
 date: 2025-04-12
 slug: "troubleshooting-common-windows-issues-professional-insights-and-practical-solutions"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

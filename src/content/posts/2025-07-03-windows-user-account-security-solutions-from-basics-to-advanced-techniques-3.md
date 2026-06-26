@@ -2,7 +2,7 @@
 title: "Windows User Account Security Solutions: From Basics to Advanced Techniques"
 date: 2025-07-03
 slug: "windows-user-account-security-solutions-from-basics-to-advanced-techniques-3"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---
@@ -25,7 +25,7 @@ Beginners: Essential User Account Security Steps
 
 How Can You Set a Strong, Secure Password?
 
-1\. Press Ctrl + Alt + Delete and select Change a password. 2. Enter your old password, then create a new one with a mix of uppercase, lowercase, numbers, and symbols (example: G!arY\_Ut1l!ties2024). 3. Avoid using easily guessed details, such as birthdays or pet names.
+1\. Press Ctrl + Alt + Delete and select Change a password. 2. Enter your old password, then create a new one with a mix of uppercase, lowercase, numbers, and symbols (example: G!arY_Ut1l!ties2024). 3. Avoid using easily guessed details, such as birthdays or pet names.
 
 Practical Example: Instead of "john123", use "J0hn!\_2024\*Win".
 

@@ -2,7 +2,7 @@
 title: "7 Windows Tools Features for Better File Management and Organization Management"
 date: 2025-05-24
 slug: "7-windows-tools-features-for-better-file-management-and-organization-management"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

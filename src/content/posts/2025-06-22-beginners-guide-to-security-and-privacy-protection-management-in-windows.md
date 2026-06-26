@@ -2,7 +2,7 @@
 title: "Beginner's Guide to Security and Privacy Protection Management in Windows"
 date: 2025-06-22
 slug: "beginners-guide-to-security-and-privacy-protection-management-in-windows"
-categories: 
+categories:
   - "privacy-security"
 author: "Nova"
 ---

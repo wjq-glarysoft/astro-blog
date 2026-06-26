@@ -2,7 +2,7 @@
 title: "Built-in Features Make Junk File Removal Strategies Management Simple in Windows"
 date: 2025-05-23
 slug: "built-in-features-make-junk-file-removal-strategies-management-simple-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

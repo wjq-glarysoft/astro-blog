@@ -2,7 +2,7 @@
 title: "Effective Windows Update Repair Techniques for Windows 10 Users"
 date: 2025-05-18
 slug: "effective-windows-update-repair-techniques-for-windows-10-users"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

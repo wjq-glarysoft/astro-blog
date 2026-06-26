@@ -2,7 +2,7 @@
 title: "Common Mistakes to Avoid When Tuning Windows CPU Performance"
 date: 2025-04-21
 slug: "common-mistakes-to-avoid-when-tuning-windows-cpu-performance"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

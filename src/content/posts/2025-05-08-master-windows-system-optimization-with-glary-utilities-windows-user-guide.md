@@ -2,7 +2,7 @@
 title: "Master Windows system optimization with Glary Utilities: Windows User Guide"
 date: 2025-05-08
 slug: "master-windows-system-optimization-with-glary-utilities-windows-user-guide"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

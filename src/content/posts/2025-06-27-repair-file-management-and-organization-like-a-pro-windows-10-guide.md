@@ -2,7 +2,7 @@
 title: "repair file management and organization Like a Pro: Windows 10 Guide"
 date: 2025-06-27
 slug: "repair-file-management-and-organization-like-a-pro-windows-10-guide"
-categories: 
+categories:
   - "files-folders"
 author: "Skher"
 ---
@@ -25,7 +25,7 @@ Think about your workflow. Create broad categories first (like Work, Personal, P
 
 What’s the Best Way to Name Files and Folders?
 
-Use clear, descriptive names that include dates or version numbers when necessary. Avoid spaces and special characters—use underscores or hyphens instead: 2024-06\_Report\_v2.pdf
+Use clear, descriptive names that include dates or version numbers when necessary. Avoid spaces and special characters—use underscores or hyphens instead: 2024-06_Report_v2.pdf
 
 How Do I Move and Copy Files Efficiently?
 
@@ -73,7 +73,7 @@ Regularly review and archive old projects. Move out-of-date files to external dr
 
 Real-World Example: Organizing a Photo Collection
 
-Suppose you have thousands of pictures scattered across your PC. Create a main Photos folder, subdivided by year and event: Pictures > 2023 > Summer\_Vacation
+Suppose you have thousands of pictures scattered across your PC. Create a main Photos folder, subdivided by year and event: Pictures > 2023 > Summer_Vacation
 
 Run Glary Utilities’ Duplicate Files Finder to remove duplicates. Use batch rename to apply consistent naming based on the date or event. Commit to offloading finished albums to cloud storage or an external drive each year.
 

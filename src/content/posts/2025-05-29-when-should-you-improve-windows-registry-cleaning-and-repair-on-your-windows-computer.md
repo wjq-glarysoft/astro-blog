@@ -2,7 +2,7 @@
 title: "When Should You Improve Windows Registry Cleaning and Repair on Your Windows Computer?"
 date: 2025-05-29
 slug: "when-should-you-improve-windows-registry-cleaning-and-repair-on-your-windows-computer"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

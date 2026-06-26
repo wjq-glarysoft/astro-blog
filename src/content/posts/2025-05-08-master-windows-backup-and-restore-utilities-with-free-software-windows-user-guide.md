@@ -2,7 +2,7 @@
 title: "Master Windows Backup and Restore Utilities with Free Software: Windows User Guide"
 date: 2025-05-08
 slug: "master-windows-backup-and-restore-utilities-with-free-software-windows-user-guide"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

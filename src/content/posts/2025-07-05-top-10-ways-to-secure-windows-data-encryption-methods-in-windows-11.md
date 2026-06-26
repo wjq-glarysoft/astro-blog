@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Secure Windows Data Encryption Methods in Windows 11"
 date: 2025-07-05
 slug: "top-10-ways-to-secure-windows-data-encryption-methods-in-windows-11"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "Advanced File Management and Organization Techniques"
 date: 2025-04-11
 slug: "advanced-file-management-and-organization-techniques"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

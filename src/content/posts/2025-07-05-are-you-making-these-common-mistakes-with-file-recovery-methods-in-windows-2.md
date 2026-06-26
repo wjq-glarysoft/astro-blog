@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with File Recovery Methods in Windows?"
 date: 2025-07-05
 slug: "are-you-making-these-common-mistakes-with-file-recovery-methods-in-windows-2"
-categories: 
+categories:
   - "files-folders"
 author: "Finn"
 ---

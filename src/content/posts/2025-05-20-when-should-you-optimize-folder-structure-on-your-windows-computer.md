@@ -2,7 +2,7 @@
 title: "When Should You Optimize Folder Structure on Your Windows Computer?"
 date: 2025-05-20
 slug: "when-should-you-optimize-folder-structure-on-your-windows-computer"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---
@@ -29,7 +29,7 @@ How to Optimize Your Folder Structure
 
 2\. Define a Clear Hierarchy: - Establish a consistent naming convention and hierarchy. For example, use top-level folders such as Documents, Media, and Software, and create subfolders for more specific categorization.
 
-3\. Implement Consistent Naming Conventions: - Use clear and descriptive names for folders. Avoid special characters and keep names concise but informative. For instance, use "2023\_Tax\_Documents" rather than vague titles like "Misc".
+3\. Implement Consistent Naming Conventions: - Use clear and descriptive names for folders. Avoid special characters and keep names concise but informative. For instance, use "2023_Tax_Documents" rather than vague titles like "Misc".
 
 4\. Use Shortcut Folders: - For frequently accessed folders, create shortcuts on your desktop or in a central location for easy access. This can save time by eliminating the need to navigate deeply nested folders.
 

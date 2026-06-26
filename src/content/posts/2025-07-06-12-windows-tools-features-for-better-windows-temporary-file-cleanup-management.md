@@ -2,7 +2,7 @@
 title: "12 Windows Tools Features for Better Windows Temporary File Cleanup Management"
 date: 2025-07-06
 slug: "12-windows-tools-features-for-better-windows-temporary-file-cleanup-management"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

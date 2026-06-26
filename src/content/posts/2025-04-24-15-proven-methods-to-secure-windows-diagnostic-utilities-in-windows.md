@@ -2,7 +2,7 @@
 title: "15 Proven Methods to Secure Windows Diagnostic Utilities in Windows"
 date: 2025-04-24
 slug: "15-proven-methods-to-secure-windows-diagnostic-utilities-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

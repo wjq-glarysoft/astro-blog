@@ -2,7 +2,7 @@
 title: "The 10 Most Effective File Recovery Methods Strategies for Windows 10 & 11"
 date: 2025-06-27
 slug: "the-10-most-effective-file-recovery-methods-strategies-for-windows-10-11"
-categories: 
+categories:
   - "files-folders"
 author: "Skher"
 ---

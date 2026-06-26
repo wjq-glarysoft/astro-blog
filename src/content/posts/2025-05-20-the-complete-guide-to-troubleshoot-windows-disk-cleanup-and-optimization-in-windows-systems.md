@@ -2,7 +2,7 @@
 title: "The Complete Guide to Troubleshoot Windows Disk Cleanup and Optimization in Windows Systems"
 date: 2025-05-20
 slug: "the-complete-guide-to-troubleshoot-windows-disk-cleanup-and-optimization-in-windows-systems"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

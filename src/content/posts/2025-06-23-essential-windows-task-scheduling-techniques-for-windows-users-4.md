@@ -2,7 +2,7 @@
 title: "Essential Windows Task Scheduling Techniques for Windows Users"
 date: 2025-06-23
 slug: "essential-windows-task-scheduling-techniques-for-windows-users-4"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

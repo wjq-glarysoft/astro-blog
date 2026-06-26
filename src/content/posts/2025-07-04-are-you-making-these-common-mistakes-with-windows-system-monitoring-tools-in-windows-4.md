@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Windows System Monitoring Tools in Windows?"
 date: 2025-07-04
 slug: "are-you-making-these-common-mistakes-with-windows-system-monitoring-tools-in-windows-4"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

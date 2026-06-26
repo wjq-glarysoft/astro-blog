@@ -2,7 +2,7 @@
 title: "Effective Junk File Removal Strategies for Windows Users"
 date: 2025-04-15
 slug: "effective-junk-file-removal-strategies-for-windows-users"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

@@ -2,7 +2,7 @@
 title: "Common Mistakes to Avoid with Windows Data Encryption"
 date: 2025-04-21
 slug: "common-mistakes-to-avoid-with-windows-data-encryption"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

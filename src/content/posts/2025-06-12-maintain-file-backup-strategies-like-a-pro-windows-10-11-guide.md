@@ -2,7 +2,7 @@
 title: "maintain file backup strategies Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-12
 slug: "maintain-file-backup-strategies-like-a-pro-windows-10-11-guide"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

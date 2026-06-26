@@ -2,7 +2,7 @@
 title: "10 Proven Methods to Manage File Management and Organization in Windows"
 date: 2025-07-04
 slug: "10-proven-methods-to-manage-file-management-and-organization-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Skher"
 ---
@@ -17,7 +17,7 @@ Beginner Level: Getting Started with File Organization
 
 1\. Use Descriptive File and Folder Names
 
-Instead of saving files with default names like "Document1" or "IMG\_1234", use clear, descriptive titles. For example, name your resume as "John\_Smith\_Resume\_2024.docx". This makes searching much easier later.
+Instead of saving files with default names like "Document1" or "IMG_1234", use clear, descriptive titles. For example, name your resume as "John_Smith_Resume_2024.docx". This makes searching much easier later.
 
 2\. Create a Logical Folder Structure
 

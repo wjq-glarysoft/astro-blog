@@ -2,7 +2,7 @@
 title: "Customizing Windows System Tools: A Beginner's Guide to Optimization"
 date: 2025-04-21
 slug: "customizing-windows-system-tools-a-beginners-guide-to-optimization"
-categories: 
+categories:
   - "system-tools"
 author: "Nova"
 ---

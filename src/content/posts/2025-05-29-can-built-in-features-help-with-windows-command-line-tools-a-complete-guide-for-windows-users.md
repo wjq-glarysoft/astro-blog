@@ -2,7 +2,7 @@
 title: "Can Built-in Features Help with Windows Command Line Tools? A Complete Guide for Windows Users"
 date: 2025-05-29
 slug: "can-built-in-features-help-with-windows-command-line-tools-a-complete-guide-for-windows-users"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---
@@ -41,7 +41,7 @@ Intermediate and Advanced Section: Power Tips and Automation
 
 1\. PowerShell Automation
 
-PowerShell extends command line capabilities significantly. For example: - To get a list of installed programs: Get-WmiObject -Class Win32\_Product - To stop a service: Stop-Service -Name "wuauserv"
+PowerShell extends command line capabilities significantly. For example: - To get a list of installed programs: Get-WmiObject -Class Win32_Product - To stop a service: Stop-Service -Name "wuauserv"
 
 2\. Batch Files and Scripts
 

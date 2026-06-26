@@ -2,7 +2,7 @@
 title: "How to Repair System File Repair Techniques for Beginner Windows Users?"
 date: 2025-07-05
 slug: "how-to-repair-system-file-repair-techniques-for-beginner-windows-users"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

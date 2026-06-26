@@ -2,7 +2,7 @@
 title: "Windows 10 Windows Temporary File Cleanup Optimization Made Easy"
 date: 2025-06-21
 slug: "windows-10-windows-temporary-file-cleanup-optimization-made-easy"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Finn"
 ---

@@ -2,7 +2,7 @@
 title: "Intermediate's Guide to Windows System Repair Tools Management in Windows"
 date: 2025-05-01
 slug: "intermediates-guide-to-windows-system-repair-tools-management-in-windows-2"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

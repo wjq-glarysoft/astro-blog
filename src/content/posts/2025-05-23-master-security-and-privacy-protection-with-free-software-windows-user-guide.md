@@ -2,7 +2,7 @@
 title: "Master security and privacy protection with Free Software: Windows User Guide"
 date: 2025-05-23
 slug: "master-security-and-privacy-protection-with-free-software-windows-user-guide"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

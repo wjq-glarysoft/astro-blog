@@ -2,7 +2,7 @@
 title: "Effective Windows System Monitoring Tools Management for Windows 10 & 11 Users"
 date: 2025-05-20
 slug: "effective-windows-system-monitoring-tools-management-for-windows-10-11-users"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---

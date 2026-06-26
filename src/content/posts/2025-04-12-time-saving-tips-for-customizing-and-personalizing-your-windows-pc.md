@@ -2,7 +2,7 @@
 title: "Time-Saving Tips for Customizing and Personalizing Your Windows PC"
 date: 2025-04-12
 slug: "time-saving-tips-for-customizing-and-personalizing-your-windows-pc"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

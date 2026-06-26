@@ -2,7 +2,7 @@
 title: "12 Essential Windows CPU Performance Tuning Tips Every Windows User Should Know"
 date: 2025-06-22
 slug: "12-essential-windows-cpu-performance-tuning-tips-every-windows-user-should-know-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

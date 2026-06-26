@@ -2,7 +2,7 @@
 title: "Glary Utilities Makes Windows Secure Browsing Techniques Management Simple in Windows"
 date: 2025-04-26
 slug: "glary-utilities-makes-windows-secure-browsing-techniques-management-simple-in-windows"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

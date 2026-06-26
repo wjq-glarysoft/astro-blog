@@ -2,7 +2,7 @@
 title: "Time-Saving Tips for Networking and Connectivity on Windows"
 date: 2025-04-12
 slug: "time-saving-tips-for-networking-and-connectivity-on-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

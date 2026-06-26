@@ -2,7 +2,7 @@
 title: "configure Windows system optimization with Glary Utilities Like a Pro: Windows 10 Guide"
 date: 2025-06-23
 slug: "configure-windows-system-optimization-with-glary-utilities-like-a-pro-windows-10-guide"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

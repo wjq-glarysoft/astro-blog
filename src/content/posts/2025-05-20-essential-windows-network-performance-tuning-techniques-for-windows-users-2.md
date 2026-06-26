@@ -2,7 +2,7 @@
 title: "Essential Windows Network Performance Tuning Techniques for Windows Users"
 date: 2025-05-20
 slug: "essential-windows-network-performance-tuning-techniques-for-windows-users-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

@@ -2,7 +2,7 @@
 title: "Can Free Software Help with Windows Registry Cleaning and Repair? A Complete Guide for Windows Users"
 date: 2025-07-05
 slug: "can-free-software-help-with-windows-registry-cleaning-and-repair-a-complete-guide-for-windows-users"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

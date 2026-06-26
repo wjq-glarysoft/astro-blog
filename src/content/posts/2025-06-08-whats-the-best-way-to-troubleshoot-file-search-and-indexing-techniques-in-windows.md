@@ -2,7 +2,7 @@
 title: "What's the Best Way to Troubleshoot File Search and Indexing Techniques in Windows?"
 date: 2025-06-08
 slug: "whats-the-best-way-to-troubleshoot-file-search-and-indexing-techniques-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

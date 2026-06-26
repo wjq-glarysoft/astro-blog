@@ -2,7 +2,7 @@
 title: "7 Proven Methods to Clean Windows Secure Browsing Techniques in Windows"
 date: 2025-05-22
 slug: "7-proven-methods-to-clean-windows-secure-browsing-techniques-in-windows"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

@@ -2,7 +2,7 @@
 title: "Troubleshooting Common Windows Issues: A Step-by-Step Guide"
 date: 2025-04-12
 slug: "troubleshooting-common-windows-issues-a-step-by-step-guide"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

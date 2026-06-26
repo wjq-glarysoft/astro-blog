@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Optimize File Naming Conventions and Organization in Windows 10"
 date: 2025-07-05
 slug: "top-10-ways-to-optimize-file-naming-conventions-and-organization-in-windows-10"
-categories: 
+categories:
   - "files-folders"
 author: "Finn"
 ---
@@ -19,13 +19,13 @@ Beginner Section: Basic File Naming and Organization Tips
 
 Mistake: Many users include special characters such as /, \\, \*, ?, ", , |, and : in file names. These are not allowed in Windows file names and can cause errors or prevent files from being moved or copied.
 
-Solution: Stick to letters, numbers, underscores (\_), and hyphens (-). For example, use "Invoice\_March2024.pdf" instead of "Invoice: March/2024.pdf".
+Solution: Stick to letters, numbers, underscores (\_), and hyphens (-). For example, use "Invoice_March2024.pdf" instead of "Invoice: March/2024.pdf".
 
 2\. Use Descriptive, Consistent Names
 
 Mistake: Generic file names like "Document1" or "Scan" make files difficult to identify later.
 
-Solution: Always include enough detail. For instance, "Budget\_Q2\_2024.xlsx" is much clearer than "NewFile.xlsx". Create a standard naming format for files of the same type, such as "ProjectName\_Date\_Description".
+Solution: Always include enough detail. For instance, "Budget_Q2_2024.xlsx" is much clearer than "NewFile.xlsx". Create a standard naming format for files of the same type, such as "ProjectName_Date_Description".
 
 3\. Don’t Rely on Default Folder Structures
 
@@ -37,13 +37,13 @@ Solution: Create main folders for each major category of files, such as "Work", 
 
 Mistake: Overly long file names can cause issues when moving files or creating backups, and may be unreadable in File Explorer.
 
-Solution: Keep file names under 50 characters where possible. For example, "MeetingNotes\_2024-06-18.docx" is concise and informative.
+Solution: Keep file names under 50 characters where possible. For example, "MeetingNotes_2024-06-18.docx" is concise and informative.
 
 5\. Use Dates for Chronological Order
 
 Mistake: Forgetting to include dates leads to confusion over file versions or event timing.
 
-Solution: Insert dates at the beginning of file names in "YYYY-MM-DD" format for easy sorting. Example: "2024-06-18\_ClientCallNotes.docx".
+Solution: Insert dates at the beginning of file names in "YYYY-MM-DD" format for easy sorting. Example: "2024-06-18_ClientCallNotes.docx".
 
 Advanced Section: Enhancing Organization and Maintenance
 
@@ -81,7 +81,7 @@ Practical Example: Organizing a Project Folder
 
 Suppose you’re managing a project called "WebsiteRedesign" for 2024. Here’s how you might structure files and use clear naming conventions:
 
-Folder: Documents\\Work\\Projects\\2024\\WebsiteRedesign - 2024-06-01\_ProjectPlan.docx - 2024-06-10\_DesignMockups.pptx - 2024-06-18\_ClientMeetingNotes.docx - Images\\2024-06-15\_HomepageDraft.png
+Folder: Documents\\Work\\Projects\\2024\\WebsiteRedesign - 2024-06-01_ProjectPlan.docx - 2024-06-10_DesignMockups.pptx - 2024-06-18_ClientMeetingNotes.docx - Images\\2024-06-15_HomepageDraft.png
 
 By applying these conventions, you’ll easily locate files, collaborate with others, and streamline backups.
 

@@ -2,7 +2,7 @@
 title: "5 Free Software Features for Better Windows Software Management Best Practices Management"
 date: 2025-06-12
 slug: "5-free-software-features-for-better-windows-software-management-best-practices-management"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

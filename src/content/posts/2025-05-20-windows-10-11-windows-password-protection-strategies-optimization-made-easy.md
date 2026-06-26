@@ -2,7 +2,7 @@
 title: "Windows 10 & 11 Windows Password Protection Strategies Optimization Made Easy"
 date: 2025-05-20
 slug: "windows-10-11-windows-password-protection-strategies-optimization-made-easy"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

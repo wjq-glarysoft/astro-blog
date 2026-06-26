@@ -2,7 +2,7 @@
 title: "How to Improve Windows Performance: Optimization Tips for Intermediate Windows Users"
 date: 2025-07-05
 slug: "how-to-improve-windows-performance-optimization-tips-for-intermediate-windows-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

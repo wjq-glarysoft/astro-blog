@@ -2,7 +2,7 @@
 title: "The Complete Guide to Troubleshoot Fixing Windows Startup Issues in Windows 10 & 11"
 date: 2025-05-20
 slug: "the-complete-guide-to-troubleshoot-fixing-windows-startup-issues-in-windows-10-11"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

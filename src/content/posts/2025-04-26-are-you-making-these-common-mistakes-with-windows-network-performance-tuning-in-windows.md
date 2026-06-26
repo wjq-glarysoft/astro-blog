@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Windows Network Performance Tuning in Windows?"
 date: 2025-04-26
 slug: "are-you-making-these-common-mistakes-with-windows-network-performance-tuning-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

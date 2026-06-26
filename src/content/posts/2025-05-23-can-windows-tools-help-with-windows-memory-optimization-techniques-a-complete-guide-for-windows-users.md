@@ -2,7 +2,7 @@
 title: "Can Windows Tools Help with Windows Memory Optimization Techniques? A Complete Guide for Windows Users"
 date: 2025-05-23
 slug: "can-windows-tools-help-with-windows-memory-optimization-techniques-a-complete-guide-for-windows-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

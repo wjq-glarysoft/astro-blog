@@ -2,7 +2,7 @@
 title: "Windows Software Management Best Practices: Expert Recommendations"
 date: 2025-04-12
 slug: "windows-software-management-best-practices-expert-recommendations-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

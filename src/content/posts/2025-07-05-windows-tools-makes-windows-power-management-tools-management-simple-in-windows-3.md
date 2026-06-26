@@ -2,7 +2,7 @@
 title: "Windows Tools Makes Windows Power Management Tools Management Simple in Windows"
 date: 2025-07-05
 slug: "windows-tools-makes-windows-power-management-tools-management-simple-in-windows-3"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---
@@ -23,9 +23,9 @@ How Can Advanced Users Customize Power Profiles?
 
 Expert users often require profiles tailored to specialized workflows or hardware:
 
-\- Use Powercfg to Create and Modify Profiles Run this in Command Prompt (admin): powercfg -duplicatescheme SCHEME\_GUID powercfg -change -standby-timeout-ac 30 This creates a new profile and sets the standby timeout. Replace GUID and values as needed.
+\- Use Powercfg to Create and Modify Profiles Run this in Command Prompt (admin): powercfg -duplicatescheme SCHEME_GUID powercfg -change -standby-timeout-ac 30 This creates a new profile and sets the standby timeout. Replace GUID and values as needed.
 
-\- Export and Import Profiles Across Devices Export a tuned power plan for deployment: powercfg -export “C:\\Users\\User\\Desktop\\CustomPowerPlan.pow” SCHEME\_GUID Import on another machine with: powercfg -import “C:\\Users\\User\\Desktop\\CustomPowerPlan.pow”
+\- Export and Import Profiles Across Devices Export a tuned power plan for deployment: powercfg -export “C:\\Users\\User\\Desktop\\CustomPowerPlan.pow” SCHEME_GUID Import on another machine with: powercfg -import “C:\\Users\\User\\Desktop\\CustomPowerPlan.pow”
 
 \- Analyze Energy Consumption Generate a detailed energy report: powercfg /energy This produces a report highlighting misconfigurations or issues that affect power efficiency.
 

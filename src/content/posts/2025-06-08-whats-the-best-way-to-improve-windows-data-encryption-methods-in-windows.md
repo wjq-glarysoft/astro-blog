@@ -2,7 +2,7 @@
 title: "What's the Best Way to Improve Windows Data Encryption Methods in Windows?"
 date: 2025-06-08
 slug: "whats-the-best-way-to-improve-windows-data-encryption-methods-in-windows"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

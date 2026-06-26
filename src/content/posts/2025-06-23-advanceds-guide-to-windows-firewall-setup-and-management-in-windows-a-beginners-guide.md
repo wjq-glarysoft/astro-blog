@@ -2,7 +2,7 @@
 title: "Advanced's Guide to Windows Firewall Setup and Management in Windows: A Beginner’s Guide"
 date: 2025-06-23
 slug: "advanceds-guide-to-windows-firewall-setup-and-management-in-windows-a-beginners-guide"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

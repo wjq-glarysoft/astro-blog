@@ -2,7 +2,7 @@
 title: "Which Windows System Information Tools Methods Work Best for Windows 11?"
 date: 2025-06-09
 slug: "which-windows-system-information-tools-methods-work-best-for-windows-11"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

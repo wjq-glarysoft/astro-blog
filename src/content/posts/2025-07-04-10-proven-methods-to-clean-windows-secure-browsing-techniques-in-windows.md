@@ -2,7 +2,7 @@
 title: "10 Proven Methods to Clean Windows Secure Browsing Techniques in Windows"
 date: 2025-07-04
 slug: "10-proven-methods-to-clean-windows-secure-browsing-techniques-in-windows"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

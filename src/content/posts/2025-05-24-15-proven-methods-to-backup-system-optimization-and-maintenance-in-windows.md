@@ -2,7 +2,7 @@
 title: "15 Proven Methods to Backup System Optimization and Maintenance in Windows"
 date: 2025-05-24
 slug: "15-proven-methods-to-backup-system-optimization-and-maintenance-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

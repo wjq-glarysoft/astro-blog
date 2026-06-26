@@ -2,7 +2,7 @@
 title: "Effective File Management and Organization for Windows 10 & 11 Users"
 date: 2025-06-12
 slug: "effective-file-management-and-organization-for-windows-10-11-users"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---
@@ -21,7 +21,7 @@ Start with the user folders Windows provides by default: - Documents: For word f
 
 How should I name files and folders?
 
-Develop a consistent naming convention. For example: - ProjectName\_Type\_Date (e.g., Report\_Financials\_2024-06-20.docx) - Avoid special characters like / \\ : \* ? " | which aren’t allowed in Windows filenames.
+Develop a consistent naming convention. For example: - ProjectName_Type_Date (e.g., Report_Financials_2024-06-20.docx) - Avoid special characters like / \\ : \* ? " | which aren’t allowed in Windows filenames.
 
 What folder structure is best?
 

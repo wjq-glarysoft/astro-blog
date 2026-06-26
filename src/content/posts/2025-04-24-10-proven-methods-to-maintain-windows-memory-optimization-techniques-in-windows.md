@@ -2,7 +2,7 @@
 title: "10 Proven Methods to Maintain Windows Memory Optimization Techniques in Windows"
 date: 2025-04-24
 slug: "10-proven-methods-to-maintain-windows-memory-optimization-techniques-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

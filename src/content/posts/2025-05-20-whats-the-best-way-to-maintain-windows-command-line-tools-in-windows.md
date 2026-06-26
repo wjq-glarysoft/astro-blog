@@ -2,7 +2,7 @@
 title: "What's the Best Way to maintain Windows command line tools in Windows?"
 date: 2025-05-20
 slug: "whats-the-best-way-to-maintain-windows-command-line-tools-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---

@@ -2,7 +2,7 @@
 title: "The Ultimate file synchronization across devices Toolkit for Windows Computers"
 date: 2025-07-05
 slug: "the-ultimate-file-synchronization-across-devices-toolkit-for-windows-computers-7"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Organize Windows System Monitoring Tools in Windows 11"
 date: 2025-07-05
 slug: "top-10-ways-to-organize-windows-system-monitoring-tools-in-windows-11-2"
-categories: 
+categories:
   - "system-tools"
 author: "Nova"
 ---

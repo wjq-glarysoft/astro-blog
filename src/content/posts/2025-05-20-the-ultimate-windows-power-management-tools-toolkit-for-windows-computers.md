@@ -2,7 +2,7 @@
 title: "The Ultimate Windows Power Management Tools Toolkit for Windows Computers"
 date: 2025-05-20
 slug: "the-ultimate-windows-power-management-tools-toolkit-for-windows-computers"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "Beginner's Guide to Customizing and Personalizing Your Windows PC"
 date: 2025-04-11
 slug: "beginners-guide-to-customizing-and-personalizing-your-windows-pc"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

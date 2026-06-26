@@ -2,7 +2,7 @@
 title: "Windows File Management and Cleanup: A Beginner's Guide"
 date: 2025-04-12
 slug: "windows-file-management-and-cleanup-a-beginners-guide"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

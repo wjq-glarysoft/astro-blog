@@ -2,7 +2,7 @@
 title: "Windows 10 Windows Security Settings Configuration Optimization Made Easy"
 date: 2025-06-09
 slug: "windows-10-windows-security-settings-configuration-optimization-made-easy"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

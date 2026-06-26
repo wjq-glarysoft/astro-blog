@@ -2,7 +2,7 @@
 title: "improve Windows password protection strategies Like a Pro: Windows Systems Guide"
 date: 2025-06-22
 slug: "improve-windows-password-protection-strategies-like-a-pro-windows-systems-guide"
-categories: 
+categories:
   - "privacy-security"
 author: "Nova"
 ---

@@ -2,7 +2,7 @@
 title: "12 Essential Windows Password Protection Strategies Every Windows User Should Know"
 date: 2025-05-07
 slug: "12-essential-windows-password-protection-strategies-every-windows-user-should-know"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

@@ -2,7 +2,7 @@
 title: "When Should You Improve Windows Visual Effects Optimization on Your Windows Computer?"
 date: 2025-05-21
 slug: "when-should-you-improve-windows-visual-effects-optimization-on-your-windows-computer"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

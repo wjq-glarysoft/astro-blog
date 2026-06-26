@@ -2,7 +2,7 @@
 title: "5 Glary Utilities Features for Better Windows User Account Security Management"
 date: 2025-04-26
 slug: "5-glary-utilities-features-for-better-windows-user-account-security-management"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

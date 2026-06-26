@@ -2,7 +2,7 @@
 title: "7 Built-in Features for Better Essential Windows Maintenance Tasks and Tools Management"
 date: 2025-06-22
 slug: "7-built-in-features-for-better-essential-windows-maintenance-tasks-and-tools-management-2"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

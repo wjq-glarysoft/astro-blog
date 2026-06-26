@@ -2,7 +2,7 @@
 title: "How to Optimize Your Windows PC Through Disk Defragmentation"
 date: 2025-04-15
 slug: "how-to-optimize-your-windows-pc-through-disk-defragmentation"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

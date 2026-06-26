@@ -2,7 +2,7 @@
 title: "10 Essential Windows File Sharing and Permissions Tips Every Windows User Should Know"
 date: 2025-06-09
 slug: "10-essential-windows-file-sharing-and-permissions-tips-every-windows-user-should-know"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

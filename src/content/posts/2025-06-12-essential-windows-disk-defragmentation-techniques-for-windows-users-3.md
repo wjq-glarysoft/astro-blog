@@ -2,7 +2,7 @@
 title: "Essential Windows Disk Defragmentation Techniques for Windows Users"
 date: 2025-06-12
 slug: "essential-windows-disk-defragmentation-techniques-for-windows-users-3"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

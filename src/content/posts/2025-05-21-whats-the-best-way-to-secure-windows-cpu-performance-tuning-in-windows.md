@@ -2,7 +2,7 @@
 title: "What's the Best Way to Secure Windows CPU Performance Tuning in Windows?"
 date: 2025-05-21
 slug: "whats-the-best-way-to-secure-windows-cpu-performance-tuning-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

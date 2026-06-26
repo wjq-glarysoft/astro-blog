@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Windows Task Scheduling Techniques in Windows?"
 date: 2025-04-24
 slug: "are-you-making-these-common-mistakes-with-windows-task-scheduling-techniques-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---

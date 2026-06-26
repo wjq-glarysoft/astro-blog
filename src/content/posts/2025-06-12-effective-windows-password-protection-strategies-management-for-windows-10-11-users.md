@@ -2,7 +2,7 @@
 title: "Effective Windows Password Protection Strategies Management for Windows 10 & 11 Users"
 date: 2025-06-12
 slug: "effective-windows-password-protection-strategies-management-for-windows-10-11-users"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

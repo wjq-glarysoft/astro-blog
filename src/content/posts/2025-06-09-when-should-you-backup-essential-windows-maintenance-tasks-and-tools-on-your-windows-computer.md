@@ -2,7 +2,7 @@
 title: "When Should You Backup Essential Windows Maintenance Tasks and Tools on Your Windows Computer?"
 date: 2025-06-09
 slug: "when-should-you-backup-essential-windows-maintenance-tasks-and-tools-on-your-windows-computer"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---

@@ -2,7 +2,7 @@
 title: "10 Built-in Features for Better Windows CPU Performance Tuning and Management"
 date: 2025-05-30
 slug: "10-built-in-features-for-better-windows-cpu-performance-tuning-and-management"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

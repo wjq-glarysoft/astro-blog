@@ -2,7 +2,7 @@
 title: "Advanced's Guide to Windows System Repair Tools Management in Windows"
 date: 2025-06-22
 slug: "advanceds-guide-to-windows-system-repair-tools-management-in-windows-2"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

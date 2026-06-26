@@ -2,7 +2,7 @@
 title: "Windows Command Line Tools Solutions: From Basics to Advanced Techniques"
 date: 2025-04-23
 slug: "windows-command-line-tools-solutions-from-basics-to-advanced-techniques"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---
@@ -47,7 +47,7 @@ Once comfortable with basic commands, users can begin automating tasks to optimi
 
 \`\`\` @echo off del /q/f/s %TEMP%\\\* \`\`\`
 
-Save it as \`temp\_cleaner.bat\` and run it regularly to clean up temporary files.
+Save it as \`temp_cleaner.bat\` and run it regularly to clean up temporary files.
 
 Advanced Techniques: PowerShell for Enhanced Functionality
 

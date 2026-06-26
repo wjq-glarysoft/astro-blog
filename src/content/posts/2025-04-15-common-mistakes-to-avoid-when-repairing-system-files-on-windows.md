@@ -2,7 +2,7 @@
 title: "Common Mistakes to Avoid When Repairing System Files on Windows"
 date: 2025-04-15
 slug: "common-mistakes-to-avoid-when-repairing-system-files-on-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "Intermediate's Guide to File Compression Techniques Management in Windows"
 date: 2025-05-01
 slug: "intermediates-guide-to-file-compression-techniques-management-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

@@ -2,7 +2,7 @@
 title: "Windows Systems File Recovery Methods Optimization Made Easy"
 date: 2025-06-08
 slug: "windows-systems-file-recovery-methods-optimization-made-easy"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

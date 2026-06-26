@@ -2,7 +2,7 @@
 title: "Which Windows visual effects optimization Methods Work Best for Windows 10?"
 date: 2025-05-06
 slug: "which-windows-visual-effects-optimization-methods-work-best-for-windows-10-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

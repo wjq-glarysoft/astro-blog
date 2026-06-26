@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Windows CPU Performance Tuning in Windows?"
 date: 2025-04-25
 slug: "are-you-making-these-common-mistakes-with-windows-cpu-performance-tuning-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

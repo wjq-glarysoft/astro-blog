@@ -2,7 +2,7 @@
 title: "Windows Tools Makes Windows Diagnostic Utilities Management Simple in Windows"
 date: 2025-05-21
 slug: "windows-tools-makes-windows-diagnostic-utilities-management-simple-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

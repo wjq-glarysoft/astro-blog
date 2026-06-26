@@ -2,7 +2,7 @@
 title: "5 Glary Utilities Features for Better Windows Secure Browsing Techniques Management"
 date: 2025-05-18
 slug: "5-glary-utilities-features-for-better-windows-secure-browsing-techniques-management"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

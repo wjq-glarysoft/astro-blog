@@ -2,7 +2,7 @@
 title: "Essential Windows Secure Browsing Techniques for Windows Users"
 date: 2025-05-20
 slug: "essential-windows-secure-browsing-techniques-for-windows-users-3"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

@@ -2,7 +2,7 @@
 title: "organize Windows update repair techniques Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-08
 slug: "organize-windows-update-repair-techniques-like-a-pro-windows-10-11-guide"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

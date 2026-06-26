@@ -2,7 +2,7 @@
 title: "Time-Saving Tips for Enhancing Windows Security and Privacy"
 date: 2025-04-12
 slug: "time-saving-tips-for-enhancing-windows-security-and-privacy"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

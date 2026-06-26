@@ -2,7 +2,7 @@
 title: "What's the Best Way to Troubleshoot Windows Privacy Enhancements in Windows?"
 date: 2025-06-27
 slug: "whats-the-best-way-to-troubleshoot-windows-privacy-enhancements-in-windows"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---
@@ -55,7 +55,7 @@ Look for policies like "Allow Telemetry" or "Configure Windows Defender SmartScr
 
 Registry edits can also control privacy settings. For example, to change telemetry level:
 
-1\. Open regedit. 2. Go to HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection 3. Modify the AllowTelemetry value.
+1\. Open regedit. 2. Go to HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection 3. Modify the AllowTelemetry value.
 
 Warning: Always back up the registry before making changes.
 

@@ -2,7 +2,7 @@
 title: "Windows Tools Make File Synchronization Across Devices Management Simple in Windows"
 date: 2025-04-23
 slug: "windows-tools-make-file-synchronization-across-devices-management-simple-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

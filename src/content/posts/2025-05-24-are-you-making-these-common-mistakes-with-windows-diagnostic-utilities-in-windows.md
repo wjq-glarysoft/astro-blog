@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Windows Diagnostic Utilities in Windows?"
 date: 2025-05-24
 slug: "are-you-making-these-common-mistakes-with-windows-diagnostic-utilities-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

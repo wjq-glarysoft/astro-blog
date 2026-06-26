@@ -2,7 +2,7 @@
 title: "Why is Windows File Explorer Tips and Tricks Important for Your Windows PC and How to Manage It?"
 date: 2025-06-09
 slug: "why-is-windows-file-explorer-tips-and-tricks-important-for-your-windows-pc-and-how-to-manage-it-3"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---
@@ -25,7 +25,7 @@ What Are the Most Useful File Explorer Tips and Tricks?
 
 How Can You Organize Files and Folders Effectively?
 
-Adopt a Consistent Naming Convention Use clear, dated, and descriptive names for both files and folders (e.g., "Invoice\_2024-06-29\_ClientName.pdf"). This makes searching and sorting more reliable.
+Adopt a Consistent Naming Convention Use clear, dated, and descriptive names for both files and folders (e.g., "Invoice_2024-06-29_ClientName.pdf"). This makes searching and sorting more reliable.
 
 Leverage Libraries and Custom Folders Add custom folders to Windows Libraries (Documents, Pictures, etc.) for centralized access across user accounts. To add a folder, right-click it, choose "Include in library" and select the desired library. This is useful when you store media or documents in non-default locations.
 

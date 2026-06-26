@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Repair System Optimization and Maintenance in Windows Systems"
 date: 2025-06-27
 slug: "top-10-ways-to-repair-system-optimization-and-maintenance-in-windows-systems"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

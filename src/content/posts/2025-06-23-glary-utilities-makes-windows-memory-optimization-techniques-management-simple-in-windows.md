@@ -2,7 +2,7 @@
 title: "Glary Utilities Makes Windows Memory Optimization Techniques Management Simple in Windows"
 date: 2025-06-23
 slug: "glary-utilities-makes-windows-memory-optimization-techniques-management-simple-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

@@ -2,7 +2,7 @@
 title: "The 15 Most Effective System File Repair Techniques Strategies for Windows 10 & 11"
 date: 2025-05-20
 slug: "the-15-most-effective-system-file-repair-techniques-strategies-for-windows-10-11"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

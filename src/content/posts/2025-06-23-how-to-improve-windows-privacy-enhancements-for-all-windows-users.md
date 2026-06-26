@@ -2,7 +2,7 @@
 title: "How to improve Windows privacy enhancements for All Windows Users?"
 date: 2025-06-23
 slug: "how-to-improve-windows-privacy-enhancements-for-all-windows-users"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

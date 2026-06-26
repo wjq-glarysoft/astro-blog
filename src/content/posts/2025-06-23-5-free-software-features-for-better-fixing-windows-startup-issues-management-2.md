@@ -2,7 +2,7 @@
 title: "5 Free Software Features for Better Fixing Windows Startup Issues Management"
 date: 2025-06-23
 slug: "5-free-software-features-for-better-fixing-windows-startup-issues-management-2"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---
@@ -63,7 +63,7 @@ Advanced: Manually Reviewing Startup Registry Keys
 
 Experienced users can review startup-related registry keys:
 
-1\. Press Win + R, type “regedit”, and press Enter. 2. Navigate to HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run. 3. Review and remove entries for unwanted or unrecognized programs.
+1\. Press Win + R, type “regedit”, and press Enter. 2. Navigate to HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run. 3. Review and remove entries for unwanted or unrecognized programs.
 
 Caution: Always back up the registry before manual edits.
 

@@ -2,7 +2,7 @@
 title: "Effective Windows Startup Optimization Methods Management for Windows Systems Users"
 date: 2025-06-27
 slug: "effective-windows-startup-optimization-methods-management-for-windows-systems-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---
@@ -53,7 +53,7 @@ Clean Up Startup Registry Entries
 
 Unwanted startups sometimes hide in the Windows Registry:
 
-1\. Press Win + R, type "regedit," and hit Enter. 2. Navigate to HKEY\_CURRENT\_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run and HKEY\_LOCAL\_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Run. 3. Delete entries for programs you recognize as unnecessary (be cautious—back up your registry first).
+1\. Press Win + R, type "regedit," and hit Enter. 2. Navigate to HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run and HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Run. 3. Delete entries for programs you recognize as unnecessary (be cautious—back up your registry first).
 
 [Glary Utilities](https://www.glarysoft.com) can assist here as well, showing deep startup entries (including registry and scheduled tasks) that advanced users may wish to manage.
 

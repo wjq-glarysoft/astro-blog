@@ -2,7 +2,7 @@
 title: "Common Mistakes to Avoid in File Management and Organization on Windows"
 date: 2025-04-21
 slug: "common-mistakes-to-avoid-in-file-management-and-organization-on-windows-2"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---
@@ -11,7 +11,7 @@ In today's digital age, efficient file management is essential for both personal
 
 1\. Overloading the Desktop Many users treat the desktop as a catch-all for documents, photos, and shortcuts. This can quickly lead to clutter, making it difficult to find what you need promptly. Instead, reserve the desktop for frequently used shortcuts and current projects only. Consider creating a "Work in Progress" folder on the desktop to store files you're actively working on and regularly move completed items to their respective folders.
 
-2\. Poorly Named Files and Folders Vague file names like "Document1" or "Scan001" can be confusing and make searching for files a headache. Develop a consistent naming convention that includes descriptive information, such as dates, project names, or versions. For example, instead of "Report," use "Q3\_Sales\_Report\_2023."
+2\. Poorly Named Files and Folders Vague file names like "Document1" or "Scan001" can be confusing and make searching for files a headache. Develop a consistent naming convention that includes descriptive information, such as dates, project names, or versions. For example, instead of "Report," use "Q3_Sales_Report_2023."
 
 3\. Lack of Folder Structure A flat folder structure where all files are dumped into one or two folders can cause chaos. Create a hierarchy of folders that is intuitive and aligned with how you work. For example, under a main folder for "Clients," you might have sub-folders for each client's name, further divided into "Contracts," "Invoices," and "Correspondence."
 

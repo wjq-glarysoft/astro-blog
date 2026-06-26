@@ -2,7 +2,7 @@
 title: "The Ultimate Windows Error Fixing Methods Toolkit for Windows Computers"
 date: 2025-06-27
 slug: "the-ultimate-windows-error-fixing-methods-toolkit-for-windows-computers-2"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

@@ -2,7 +2,7 @@
 title: "15 Essential System Optimization and Maintenance Tips Every Windows User Should Know"
 date: 2025-06-22
 slug: "15-essential-system-optimization-and-maintenance-tips-every-windows-user-should-know"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Backup Junk File Removal Strategies in Windows 10 & 11"
 date: 2025-06-27
 slug: "top-10-ways-to-backup-junk-file-removal-strategies-in-windows-10-11"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---
@@ -17,7 +17,7 @@ Junk files accumulate through everyday PC use: temporary files, cache, system er
 
 Beginner Steps: - Press the Windows key, type "Create a restore point" and select the top result. - In the System Properties window, click the "Create" button under System Protection. - Enter a name for the restore point (e.g., “Pre-Cleanup Backup”) and click "Create".
 
-Advanced Tip: If you want to script restore point creation, use PowerShell: - Open PowerShell as administrator. - Run: Checkpoint-Computer -Description "Pre-Junk-Cleanup" -RestorePointType "MODIFY\_SETTINGS"
+Advanced Tip: If you want to script restore point creation, use PowerShell: - Open PowerShell as administrator. - Run: Checkpoint-Computer -Description "Pre-Junk-Cleanup" -RestorePointType "MODIFY_SETTINGS"
 
 2\. Use Windows File History or Backup Utility
 

@@ -2,7 +2,7 @@
 title: "Windows CPU Performance Tuning Solutions: From Basics to Advanced Techniques"
 date: 2025-06-09
 slug: "windows-cpu-performance-tuning-solutions-from-basics-to-advanced-techniques-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

@@ -2,7 +2,7 @@
 title: "Built-in Features Makes Windows Secure Browsing Techniques Management Simple in Windows"
 date: 2025-06-06
 slug: "built-in-features-makes-windows-secure-browsing-techniques-management-simple-in-windows"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

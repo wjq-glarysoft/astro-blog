@@ -2,7 +2,7 @@
 title: "Effective Windows Update Repair Techniques Management for Windows Systems Users"
 date: 2025-07-04
 slug: "effective-windows-update-repair-techniques-management-for-windows-systems-users-3"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

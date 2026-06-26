@@ -2,7 +2,7 @@
 title: "When Should You Clean Windows System Monitoring Tools on Your Windows Computer?"
 date: 2025-05-21
 slug: "when-should-you-clean-windows-system-monitoring-tools-on-your-windows-computer"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

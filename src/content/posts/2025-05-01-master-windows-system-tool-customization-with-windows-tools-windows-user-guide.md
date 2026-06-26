@@ -2,7 +2,7 @@
 title: "Master Windows system tool customization with Windows Tools: Windows User Guide"
 date: 2025-05-01
 slug: "master-windows-system-tool-customization-with-windows-tools-windows-user-guide"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

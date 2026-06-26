@@ -2,7 +2,7 @@
 title: "5 Windows Tools Features for Better Junk File Removal Strategies Management"
 date: 2025-05-07
 slug: "5-windows-tools-features-for-better-junk-file-removal-strategies-management"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

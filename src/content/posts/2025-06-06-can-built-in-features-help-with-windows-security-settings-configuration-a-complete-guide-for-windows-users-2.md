@@ -2,7 +2,7 @@
 title: "Can Built-in Features Help with Windows Security Settings Configuration? A Complete Guide for Windows Users"
 date: 2025-06-06
 slug: "can-built-in-features-help-with-windows-security-settings-configuration-a-complete-guide-for-windows-users-2"
-categories: 
+categories:
   - "privacy-security"
 author: "Skher"
 ---

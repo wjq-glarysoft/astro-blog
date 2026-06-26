@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Windows User Account Security in Windows?"
 date: 2025-04-25
 slug: "are-you-making-these-common-mistakes-with-windows-user-account-security-in-windows"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

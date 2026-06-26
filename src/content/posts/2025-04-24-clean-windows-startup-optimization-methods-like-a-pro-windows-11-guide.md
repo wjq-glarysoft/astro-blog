@@ -2,7 +2,7 @@
 title: "Clean Windows Startup Optimization Methods Like a Pro: Windows 11 Guide"
 date: 2025-04-24
 slug: "clean-windows-startup-optimization-methods-like-a-pro-windows-11-guide"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

@@ -2,7 +2,7 @@
 title: "backup Windows password protection strategies Like a Pro: Windows 10 & 11 Guide"
 date: 2025-06-12
 slug: "backup-windows-password-protection-strategies-like-a-pro-windows-10-11-guide"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

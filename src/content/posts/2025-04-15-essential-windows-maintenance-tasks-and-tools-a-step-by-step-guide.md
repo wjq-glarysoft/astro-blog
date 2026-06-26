@@ -2,7 +2,7 @@
 title: "Essential Windows Maintenance Tasks and Tools: A Step-by-Step Guide"
 date: 2025-04-15
 slug: "essential-windows-maintenance-tasks-and-tools-a-step-by-step-guide"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---

@@ -2,7 +2,7 @@
 title: "The 7 Most Effective Windows System Monitoring Tools Strategies for Windows 11"
 date: 2025-05-20
 slug: "the-7-most-effective-windows-system-monitoring-tools-strategies-for-windows-11"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

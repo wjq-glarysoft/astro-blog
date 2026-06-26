@@ -2,7 +2,7 @@
 title: "Which Windows system information tools Methods Work Best for Windows 10?"
 date: 2025-05-20
 slug: "which-windows-system-information-tools-methods-work-best-for-windows-10-2"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

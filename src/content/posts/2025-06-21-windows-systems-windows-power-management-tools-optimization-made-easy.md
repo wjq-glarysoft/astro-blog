@@ -2,7 +2,7 @@
 title: "Windows Systems Windows Power Management Tools Optimization Made Easy"
 date: 2025-06-21
 slug: "windows-systems-windows-power-management-tools-optimization-made-easy"
-categories: 
+categories:
   - "system-tools"
 author: "Nova"
 ---

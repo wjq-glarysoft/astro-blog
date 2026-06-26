@@ -2,7 +2,7 @@
 title: "10 Essential Windows Visual Effects Optimization Tips Every Windows User Should Know"
 date: 2025-05-30
 slug: "10-essential-windows-visual-effects-optimization-tips-every-windows-user-should-know-3"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

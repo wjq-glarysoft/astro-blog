@@ -2,7 +2,7 @@
 title: "7 Glary Utilities Features for Better Security and Privacy Protection Management"
 date: 2025-07-04
 slug: "7-glary-utilities-features-for-better-security-and-privacy-protection-management"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

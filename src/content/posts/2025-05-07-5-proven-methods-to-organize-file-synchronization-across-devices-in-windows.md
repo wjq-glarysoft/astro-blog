@@ -2,7 +2,7 @@
 title: "5 Proven Methods to Organize File Synchronization Across Devices in Windows"
 date: 2025-05-07
 slug: "5-proven-methods-to-organize-file-synchronization-across-devices-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

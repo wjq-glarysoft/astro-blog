@@ -2,7 +2,7 @@
 title: "Windows Tools Makes Windows Temporary File Cleanup Management Simple in Windows"
 date: 2025-05-29
 slug: "windows-tools-makes-windows-temporary-file-cleanup-management-simple-in-windows-2"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

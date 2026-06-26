@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Troubleshoot Windows Privacy Enhancements in Windows 10 & 11"
 date: 2025-05-29
 slug: "top-10-ways-to-troubleshoot-windows-privacy-enhancements-in-windows-10-11"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---
@@ -37,7 +37,7 @@ If an application fails to start or access files: - Navigate to Settings > Priva
 
 7\. How Can You Diagnose Group Policy or Registry Conflicts? (For Advanced Users)
 
-Privacy settings can sometimes be overridden by Group Policy or Registry edits. - Run gpedit.msc (Windows Pro/Enterprise) and navigate to Computer Configuration > Administrative Templates > Windows Components > Data Collection and Preview Builds. - Adjust settings like “Allow Telemetry.” - Use regedit to check HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection and related keys.
+Privacy settings can sometimes be overridden by Group Policy or Registry edits. - Run gpedit.msc (Windows Pro/Enterprise) and navigate to Computer Configuration > Administrative Templates > Windows Components > Data Collection and Preview Builds. - Adjust settings like “Allow Telemetry.” - Use regedit to check HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection and related keys.
 
 Warning: Always back up the registry before making changes.
 

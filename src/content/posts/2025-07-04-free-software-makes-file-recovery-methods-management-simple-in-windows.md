@@ -2,7 +2,7 @@
 title: "Free Software Makes File Recovery Methods Management Simple in Windows"
 date: 2025-07-04
 slug: "free-software-makes-file-recovery-methods-management-simple-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Skher"
 ---

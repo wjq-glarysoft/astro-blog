@@ -2,7 +2,7 @@
 title: "Which security and privacy protection Methods Work Best for Windows 11?"
 date: 2025-05-29
 slug: "which-security-and-privacy-protection-methods-work-best-for-windows-11-3"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

@@ -2,7 +2,7 @@
 title: "Built-in Features Make Windows System Monitoring Tools Management Simple in Windows"
 date: 2025-06-06
 slug: "built-in-features-make-windows-system-monitoring-tools-management-simple-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

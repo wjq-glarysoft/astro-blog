@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Optimize Windows Firewall Setup and Management in Windows 11"
 date: 2025-07-05
 slug: "top-10-ways-to-optimize-windows-firewall-setup-and-management-in-windows-11"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

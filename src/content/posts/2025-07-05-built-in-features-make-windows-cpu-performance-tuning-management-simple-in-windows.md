@@ -2,7 +2,7 @@
 title: "Built-in Features Make Windows CPU Performance Tuning Management Simple in Windows"
 date: 2025-07-05
 slug: "built-in-features-make-windows-cpu-performance-tuning-management-simple-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

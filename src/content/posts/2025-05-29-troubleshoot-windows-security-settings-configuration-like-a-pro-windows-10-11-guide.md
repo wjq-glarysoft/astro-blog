@@ -2,7 +2,7 @@
 title: "troubleshoot Windows security settings configuration Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-29
 slug: "troubleshoot-windows-security-settings-configuration-like-a-pro-windows-10-11-guide"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

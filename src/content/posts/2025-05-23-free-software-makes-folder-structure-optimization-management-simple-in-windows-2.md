@@ -2,7 +2,7 @@
 title: "Free Software Makes Folder Structure Optimization Management Simple in Windows"
 date: 2025-05-23
 slug: "free-software-makes-folder-structure-optimization-management-simple-in-windows-2"
-categories: 
+categories:
   - "files-folders"
 author: "Finn"
 ---
@@ -19,11 +19,11 @@ How Should You Plan Your Folder Structure?
 
 Start by analyzing your needs. For example, if you work on multiple projects, create a top-level "Projects" folder. Inside, make subfolders for each project. Under each project, include folders for "Documents," "Media," "References," and "Archives." For personal files, start with categories such as "Photos," "Music," "Finances," and "Work."
 
-A recommended hierarchy might look like: - Work - Project\_A - Documents - Spreadsheets - Presentations - Project\_B - Personal - Photos - 2024 - 2023 - Tax Documents
+A recommended hierarchy might look like: - Work - Project_A - Documents - Spreadsheets - Presentations - Project_B - Personal - Photos - 2024 - 2023 - Tax Documents
 
 What Naming Conventions Are Best for Windows?
 
-Windows supports long filenames but using clear, consistent names is key. Use descriptive names with dates where useful (e.g., "Invoice\_2024-06-01.pdf"). Avoid special characters like / \\ : \* ? " |. For versioning, add version numbers or dates at the end of file names, such as "Report\_v3.docx" or "Summary\_2023-12.docx."
+Windows supports long filenames but using clear, consistent names is key. Use descriptive names with dates where useful (e.g., "Invoice_2024-06-01.pdf"). Avoid special characters like / \\ : \* ? " |. For versioning, add version numbers or dates at the end of file names, such as "Report_v3.docx" or "Summary_2023-12.docx."
 
 How Can Free Software Help Optimize Folder Structures?
 

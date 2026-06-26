@@ -2,7 +2,7 @@
 title: "Enhancing Windows Network Performance: Best Practices and Tips"
 date: 2025-04-15
 slug: "enhancing-windows-network-performance-best-practices-and-tips"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

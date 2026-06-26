@@ -2,7 +2,7 @@
 title: "The Ultimate Windows User Account Security Toolkit for Windows Computers"
 date: 2025-05-20
 slug: "the-ultimate-windows-user-account-security-toolkit-for-windows-computers-2"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

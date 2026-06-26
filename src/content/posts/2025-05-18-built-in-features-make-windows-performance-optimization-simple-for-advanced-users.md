@@ -2,7 +2,7 @@
 title: "Built-in Features Make Windows Performance Optimization Simple for Advanced Users"
 date: 2025-05-18
 slug: "built-in-features-make-windows-performance-optimization-simple-for-advanced-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

@@ -2,7 +2,7 @@
 title: "Mastering Windows Registry Cleaning and Repair: A Guide for Optimal System Performance"
 date: 2025-04-15
 slug: "mastering-windows-registry-cleaning-and-repair-a-guide-for-optimal-system-performance"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

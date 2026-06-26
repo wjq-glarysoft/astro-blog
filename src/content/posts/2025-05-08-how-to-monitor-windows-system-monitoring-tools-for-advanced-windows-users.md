@@ -2,7 +2,7 @@
 title: "How to Monitor Windows System Monitoring Tools for Advanced Windows Users?"
 date: 2025-05-08
 slug: "how-to-monitor-windows-system-monitoring-tools-for-advanced-windows-users"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---

@@ -2,7 +2,7 @@
 title: "backup Windows task scheduling techniques Like a Pro: Windows 11 Guide"
 date: 2025-06-22
 slug: "backup-windows-task-scheduling-techniques-like-a-pro-windows-11-guide"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "Windows Disk Cleanup and Optimization Solutions: From Basics to Advanced Techniques"
 date: 2025-06-09
 slug: "windows-disk-cleanup-and-optimization-solutions-from-basics-to-advanced-techniques-4"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

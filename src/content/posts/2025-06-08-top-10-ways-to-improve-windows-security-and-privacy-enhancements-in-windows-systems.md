@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Improve Windows Security and Privacy Enhancements in Windows Systems"
 date: 2025-06-08
 slug: "top-10-ways-to-improve-windows-security-and-privacy-enhancements-in-windows-systems"
-categories: 
+categories:
   - "privacy-security"
 author: "Skher"
 ---

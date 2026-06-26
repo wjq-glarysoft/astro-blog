@@ -2,7 +2,7 @@
 title: "7 Proven Methods to Troubleshoot Windows System Tool Customization in Windows"
 date: 2025-07-06
 slug: "7-proven-methods-to-troubleshoot-windows-system-tool-customization-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---
@@ -55,7 +55,7 @@ Method 6: Registry Tweaks and Repairs (Advanced)
 
 Why is this useful? Many system tool customizations are stored in the Windows Registry. If customization settings become corrupt, manual edits may be necessary.
 
-Example: Fixing Task Manager disabled by policy 1. Press Win+R, type regedit, and press Enter. 2. Navigate to HKEY\_CURRENT\_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System 3. If a value named DisableTaskMgr exists, right-click and delete it or set its value to 0. 4. Restart your computer.
+Example: Fixing Task Manager disabled by policy 1. Press Win+R, type regedit, and press Enter. 2. Navigate to HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System 3. If a value named DisableTaskMgr exists, right-click and delete it or set its value to 0. 4. Restart your computer.
 
 Always back up the registry before making changes: File > Export.
 

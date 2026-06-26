@@ -2,7 +2,7 @@
 title: "Effective Windows Temporary File Cleanup Management for Windows 10 & 11 Users"
 date: 2025-07-05
 slug: "effective-windows-temporary-file-cleanup-management-for-windows-10-11-users-2"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

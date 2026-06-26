@@ -2,7 +2,7 @@
 title: "The 12 Most Effective Fixing Windows Startup Issues Strategies for Windows 10 & 11"
 date: 2025-06-09
 slug: "the-12-most-effective-fixing-windows-startup-issues-strategies-for-windows-10-11"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

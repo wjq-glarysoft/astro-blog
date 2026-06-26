@@ -2,7 +2,7 @@
 title: "A Beginner's Guide to Software Installation and Updates on Windows"
 date: 2025-04-13
 slug: "a-beginners-guide-to-software-installation-and-updates-on-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

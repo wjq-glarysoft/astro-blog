@@ -2,7 +2,7 @@
 title: "Master Windows Command Line Tools with Windows Tools: Windows User Guide"
 date: 2025-05-01
 slug: "master-windows-command-line-tools-with-windows-tools-windows-user-guide-2"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

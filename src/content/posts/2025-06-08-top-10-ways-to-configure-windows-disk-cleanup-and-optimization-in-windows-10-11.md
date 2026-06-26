@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Configure Windows Disk Cleanup and Optimization in Windows 10 & 11"
 date: 2025-06-08
 slug: "top-10-ways-to-configure-windows-disk-cleanup-and-optimization-in-windows-10-11"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

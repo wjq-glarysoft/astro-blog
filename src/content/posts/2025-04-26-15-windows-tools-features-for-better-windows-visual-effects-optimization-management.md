@@ -2,7 +2,7 @@
 title: "15 Windows Tools Features for Better Windows Visual Effects Optimization Management"
 date: 2025-04-26
 slug: "15-windows-tools-features-for-better-windows-visual-effects-optimization-management"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

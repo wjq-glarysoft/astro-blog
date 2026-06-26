@@ -2,7 +2,7 @@
 title: "How to Clean Windows Data Encryption Methods for Beginner Windows Users?"
 date: 2025-05-08
 slug: "how-to-clean-windows-data-encryption-methods-for-beginner-windows-users"
-categories: 
+categories:
   - "privacy-security"
 author: "Skher"
 ---

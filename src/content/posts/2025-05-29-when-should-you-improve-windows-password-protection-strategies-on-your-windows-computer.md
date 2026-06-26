@@ -2,7 +2,7 @@
 title: "When Should You Improve Windows Password Protection Strategies on Your Windows Computer?"
 date: 2025-05-29
 slug: "when-should-you-improve-windows-password-protection-strategies-on-your-windows-computer"
-categories: 
+categories:
   - "privacy-security"
 author: "Skher"
 ---

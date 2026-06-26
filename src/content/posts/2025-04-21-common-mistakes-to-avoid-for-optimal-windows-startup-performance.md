@@ -2,7 +2,7 @@
 title: "Common Mistakes to Avoid for Optimal Windows Startup Performance"
 date: 2025-04-21
 slug: "common-mistakes-to-avoid-for-optimal-windows-startup-performance"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "When Should You Organize Windows Secure Browsing Techniques on Your Windows Computer?"
 date: 2025-05-21
 slug: "when-should-you-organize-windows-secure-browsing-techniques-on-your-windows-computer"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

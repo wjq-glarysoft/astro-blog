@@ -2,7 +2,7 @@
 title: "When Should You Organize Windows Performance Troubleshooting on Your Windows Computer?"
 date: 2025-06-09
 slug: "when-should-you-organize-windows-performance-troubleshooting-on-your-windows-computer"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Finn"
 ---

@@ -2,7 +2,7 @@
 title: "Built-in Features Make File Backup Strategies Management Simple in Windows"
 date: 2025-04-25
 slug: "built-in-features-make-file-backup-strategies-management-simple-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

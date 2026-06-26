@@ -2,7 +2,7 @@
 title: "Windows Tools Makes File Backup Strategies Management Simple in Windows"
 date: 2025-06-08
 slug: "windows-tools-makes-file-backup-strategies-management-simple-in-windows-3"
-categories: 
+categories:
   - "files-folders"
 author: "Skher"
 ---

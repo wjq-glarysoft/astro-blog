@@ -2,7 +2,7 @@
 title: "How to Maintain Windows Power Management Tools for Intermediate Windows Users?"
 date: 2025-05-23
 slug: "how-to-maintain-windows-power-management-tools-for-intermediate-windows-users"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

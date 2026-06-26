@@ -2,7 +2,7 @@
 title: "When Should You Secure Windows Diagnostic Utilities on Your Windows Computer?"
 date: 2025-05-20
 slug: "when-should-you-secure-windows-diagnostic-utilities-on-your-windows-computer"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

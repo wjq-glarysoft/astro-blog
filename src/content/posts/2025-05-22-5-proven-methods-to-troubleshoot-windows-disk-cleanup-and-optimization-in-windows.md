@@ -2,7 +2,7 @@
 title: "5 Proven Methods to Troubleshoot Windows Disk Cleanup and Optimization in Windows"
 date: 2025-05-22
 slug: "5-proven-methods-to-troubleshoot-windows-disk-cleanup-and-optimization-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

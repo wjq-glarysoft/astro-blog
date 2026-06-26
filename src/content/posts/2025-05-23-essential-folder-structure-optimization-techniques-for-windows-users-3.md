@@ -2,7 +2,7 @@
 title: "Essential Folder Structure Optimization Techniques for Windows Users"
 date: 2025-05-23
 slug: "essential-folder-structure-optimization-techniques-for-windows-users-3"
-categories: 
+categories:
   - "files-folders"
 author: "Finn"
 ---
@@ -21,7 +21,7 @@ A logical folder structure is a hierarchy where folders and subfolders are organ
 
 1\. Start Broad, Then Narrow Down - Begin with top-level folders like Documents, Pictures, Work, and Personal. - Within each, add subfolders for categories such as Projects, Invoices, or Reports.
 
-2\. Use Consistent Naming Conventions - Choose a format and stick to it, e.g., “2024\_ProjectName” or “ClientName\_ProjectType.” - Avoid spaces and special characters to improve compatibility and searchability.
+2\. Use Consistent Naming Conventions - Choose a format and stick to it, e.g., “2024_ProjectName” or “ClientName_ProjectType.” - Avoid spaces and special characters to improve compatibility and searchability.
 
 3\. Archive and Remove Redundant Files - Regularly go through folders to archive old files or delete duplicates. - Store rarely used files in an “Archive” folder to reduce clutter.
 
@@ -51,7 +51,7 @@ Advanced Example:
 
 For a freelance graphic designer juggling multiple clients and projects, a recommended structure could be:
 
-Clients ClientName1 2024\_LogoDesign 2024\_Website ClientName2 2024\_Brochure Archive 2023 ClientName1 ClientName2
+Clients ClientName1 2024_LogoDesign 2024_Website ClientName2 2024_Brochure Archive 2023 ClientName1 ClientName2
 
 You can add “Shortcuts” to frequently accessed project folders on your Desktop or in a “Favorites” folder for quick access.
 

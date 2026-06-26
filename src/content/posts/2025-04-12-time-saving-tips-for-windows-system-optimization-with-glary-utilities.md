@@ -2,7 +2,7 @@
 title: "Time-Saving Tips for Windows System Optimization with Glary Utilities"
 date: 2025-04-12
 slug: "time-saving-tips-for-windows-system-optimization-with-glary-utilities"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

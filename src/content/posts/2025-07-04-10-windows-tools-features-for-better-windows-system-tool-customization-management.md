@@ -2,7 +2,7 @@
 title: "10 Windows Tools Features for Better Windows System Tool Customization Management"
 date: 2025-07-04
 slug: "10-windows-tools-features-for-better-windows-system-tool-customization-management"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---
@@ -61,7 +61,7 @@ How Can You Use Windows Registry Editor for Deep Customization?
 
 The Registry Editor (regedit) allows precise tweaks not exposed in standard settings. For example, to disable Windows 10’s lock screen:
 
-1\. Open Registry Editor. 2. Navigate to HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Personalization. 3. Create a new DWORD (32-bit) Value named NoLockScreen and set value to 1.
+1\. Open Registry Editor. 2. Navigate to HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Personalization. 3. Create a new DWORD (32-bit) Value named NoLockScreen and set value to 1.
 
 Always back up the registry before making changes to prevent system instability.
 

@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Organize Junk File Removal Strategies in Windows 10: Common Mistakes to Avoid"
 date: 2025-05-26
 slug: "top-10-ways-to-organize-junk-file-removal-strategies-in-windows-10-common-mistakes-to-avoid"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

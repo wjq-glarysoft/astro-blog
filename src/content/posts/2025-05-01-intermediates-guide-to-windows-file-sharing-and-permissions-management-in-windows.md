@@ -2,7 +2,7 @@
 title: "Intermediate's Guide to Windows File Sharing and Permissions Management in Windows"
 date: 2025-05-01
 slug: "intermediates-guide-to-windows-file-sharing-and-permissions-management-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Finn"
 ---

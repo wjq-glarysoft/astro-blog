@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Secure Windows Error Fixing Methods in Windows 10 & 11"
 date: 2025-05-29
 slug: "top-10-ways-to-secure-windows-error-fixing-methods-in-windows-10-11"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

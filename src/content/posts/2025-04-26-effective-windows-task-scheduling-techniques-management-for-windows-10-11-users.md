@@ -2,7 +2,7 @@
 title: "Effective Windows Task Scheduling Techniques Management for Windows 10 & 11 Users"
 date: 2025-04-26
 slug: "effective-windows-task-scheduling-techniques-management-for-windows-10-11-users"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

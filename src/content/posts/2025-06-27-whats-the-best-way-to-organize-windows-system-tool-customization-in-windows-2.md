@@ -2,7 +2,7 @@
 title: "What's the Best Way to Organize Windows System Tool Customization in Windows?"
 date: 2025-06-27
 slug: "whats-the-best-way-to-organize-windows-system-tool-customization-in-windows-2"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

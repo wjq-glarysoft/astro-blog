@@ -2,7 +2,7 @@
 title: "When Should You Backup Windows User Account Security on Your Windows Computer?"
 date: 2025-06-09
 slug: "when-should-you-backup-windows-user-account-security-on-your-windows-computer"
-categories: 
+categories:
   - "privacy-security"
 author: "Skher"
 ---

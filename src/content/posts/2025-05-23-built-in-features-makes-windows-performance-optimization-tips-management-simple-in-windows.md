@@ -2,7 +2,7 @@
 title: "Built-in Features Makes Windows Performance Optimization Tips Management Simple in Windows"
 date: 2025-05-23
 slug: "built-in-features-makes-windows-performance-optimization-tips-management-simple-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

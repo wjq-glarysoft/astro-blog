@@ -2,7 +2,7 @@
 title: "Essential Windows System Monitoring and Analysis Techniques for Windows Users"
 date: 2025-05-01
 slug: "essential-windows-system-monitoring-and-analysis-techniques-for-windows-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

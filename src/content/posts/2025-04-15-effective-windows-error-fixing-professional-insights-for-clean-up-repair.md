@@ -2,7 +2,7 @@
 title: "Effective Windows Error Fixing: Professional Insights for Clean Up & Repair"
 date: 2025-04-15
 slug: "effective-windows-error-fixing-professional-insights-for-clean-up-repair"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

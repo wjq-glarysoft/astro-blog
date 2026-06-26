@@ -2,7 +2,7 @@
 title: "Glary Utilities Makes Windows Password Protection Strategies Management Simple in Windows"
 date: 2025-05-01
 slug: "glary-utilities-makes-windows-password-protection-strategies-management-simple-in-windows"
-categories: 
+categories:
   - "privacy-security"
 author: "Skher"
 ---

@@ -2,7 +2,7 @@
 title: "How to configure file search and indexing techniques for All Windows Users?"
 date: 2025-05-01
 slug: "how-to-configure-file-search-and-indexing-techniques-for-all-windows-users"
-categories: 
+categories:
   - "files-folders"
 author: "Finn"
 ---

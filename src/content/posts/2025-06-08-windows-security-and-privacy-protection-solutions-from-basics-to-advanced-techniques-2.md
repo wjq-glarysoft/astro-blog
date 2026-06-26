@@ -2,7 +2,7 @@
 title: "Windows security and privacy protection Solutions: From Basics to Advanced Techniques"
 date: 2025-06-08
 slug: "windows-security-and-privacy-protection-solutions-from-basics-to-advanced-techniques-2"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

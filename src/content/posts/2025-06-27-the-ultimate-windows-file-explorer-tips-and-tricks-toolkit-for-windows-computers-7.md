@@ -2,7 +2,7 @@
 title: "The Ultimate Windows File Explorer Tips and Tricks Toolkit for Windows Computers"
 date: 2025-06-27
 slug: "the-ultimate-windows-file-explorer-tips-and-tricks-toolkit-for-windows-computers-7"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

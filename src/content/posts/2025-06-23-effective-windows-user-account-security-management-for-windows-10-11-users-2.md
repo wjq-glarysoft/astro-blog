@@ -2,7 +2,7 @@
 title: "Effective Windows User Account Security Management for Windows 10 & 11 Users"
 date: 2025-06-23
 slug: "effective-windows-user-account-security-management-for-windows-10-11-users-2"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

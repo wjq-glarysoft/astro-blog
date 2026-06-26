@@ -2,7 +2,7 @@
 title: "Essential File Naming Conventions and Organization Techniques for Windows Users"
 date: 2025-05-01
 slug: "essential-file-naming-conventions-and-organization-techniques-for-windows-users-2"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---
@@ -17,13 +17,13 @@ File naming conventions are crucial because they help you:
 
 What Are Some Recommended File Naming Conventions?
 
-1\. Be Descriptive: Use clear, descriptive names that convey the content or purpose of the file. For example, instead of naming a document "Document1.docx", use "Quarterly\_Report\_Q3\_2023.docx".
+1\. Be Descriptive: Use clear, descriptive names that convey the content or purpose of the file. For example, instead of naming a document "Document1.docx", use "Quarterly_Report_Q3_2023.docx".
 
-2\. Use Dates Effectively: Integrating dates in filenames can help sort and manage files chronologically. Use the format YYYY-MM-DD for consistency, such as "Project\_Notes\_2023-10-15.txt".
+2\. Use Dates Effectively: Integrating dates in filenames can help sort and manage files chronologically. Use the format YYYY-MM-DD for consistency, such as "Project_Notes_2023-10-15.txt".
 
 3\. Avoid Special Characters: Special characters like / \\ \* ? " | can cause issues in Windows. Stick to underscores (\_) or dashes (-) to separate words.
 
-4\. Implement Version Control: For files that undergo multiple revisions, include version numbers, such as "Design\_Concept\_v2.pptx". This way, you can easily track changes and revert if necessary.
+4\. Implement Version Control: For files that undergo multiple revisions, include version numbers, such as "Design_Concept_v2.pptx". This way, you can easily track changes and revert if necessary.
 
 5\. Keep It Short: While being descriptive is important, try to keep filenames concise. Aim to communicate the necessary information in under 25-30 characters when possible.
 

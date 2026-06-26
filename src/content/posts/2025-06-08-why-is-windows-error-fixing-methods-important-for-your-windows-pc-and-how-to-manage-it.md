@@ -2,7 +2,7 @@
 title: "Why is Windows Error Fixing Methods Important for Your Windows PC and How to Manage It?"
 date: 2025-06-08
 slug: "why-is-windows-error-fixing-methods-important-for-your-windows-pc-and-how-to-manage-it"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Finn"
 ---

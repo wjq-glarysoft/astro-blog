@@ -2,7 +2,7 @@
 title: "Windows 10 & 11 Windows Visual Effects Optimization Made Easy"
 date: 2025-05-29
 slug: "windows-10-11-windows-visual-effects-optimization-made-easy"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

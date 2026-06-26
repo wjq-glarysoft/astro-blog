@@ -2,7 +2,7 @@
 title: "The Ultimate Windows Visual Effects Optimization Toolkit for Windows Computers"
 date: 2025-06-27
 slug: "the-ultimate-windows-visual-effects-optimization-toolkit-for-windows-computers-6"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---
@@ -61,7 +61,7 @@ Example: Batch Script to Toggle Visual Effects
 
 Save the following commands in a .bat file and run as administrator to set visual effects for best performance:
 
-reg add "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\VisualEffects" /v VisualFXSetting /t REG\_DWORD /d 2 /f
+reg add "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\VisualEffects" /v VisualFXSetting /t REG_DWORD /d 2 /f
 
 Restart your computer for the changes to take effect.
 

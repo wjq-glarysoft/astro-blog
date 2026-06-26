@@ -2,7 +2,7 @@
 title: "The Complete Guide to Manage Windows Privacy Enhancements in Windows 10 & 11"
 date: 2025-06-09
 slug: "the-complete-guide-to-manage-windows-privacy-enhancements-in-windows-10-11"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

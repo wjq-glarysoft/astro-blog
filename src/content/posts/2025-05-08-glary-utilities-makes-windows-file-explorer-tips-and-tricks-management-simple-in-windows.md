@@ -2,7 +2,7 @@
 title: "Glary Utilities Makes Windows File Explorer Tips and Tricks Management Simple in Windows"
 date: 2025-05-08
 slug: "glary-utilities-makes-windows-file-explorer-tips-and-tricks-management-simple-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

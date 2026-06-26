@@ -2,7 +2,7 @@
 title: "15 Proven Methods to Maintain and Fix Windows Startup Issues"
 date: 2025-04-26
 slug: "15-proven-methods-to-maintain-and-fix-windows-startup-issues"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

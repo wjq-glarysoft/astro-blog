@@ -2,7 +2,7 @@
 title: "How to Secure Windows Performance Optimization Tips for Intermediate Windows Users?"
 date: 2025-06-12
 slug: "how-to-secure-windows-performance-optimization-tips-for-intermediate-windows-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

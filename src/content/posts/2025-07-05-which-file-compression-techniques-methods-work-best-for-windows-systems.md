@@ -2,7 +2,7 @@
 title: "Which file compression techniques Methods Work Best for Windows Systems?"
 date: 2025-07-05
 slug: "which-file-compression-techniques-methods-work-best-for-windows-systems"
-categories: 
+categories:
   - "files-folders"
 author: "Finn"
 ---

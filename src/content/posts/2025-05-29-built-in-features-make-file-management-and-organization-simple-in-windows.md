@@ -2,7 +2,7 @@
 title: "Built-in Features Make File Management and Organization Simple in Windows"
 date: 2025-05-29
 slug: "built-in-features-make-file-management-and-organization-simple-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---
@@ -37,7 +37,7 @@ How Do You Organize Files Using Folders and Color Codes?
 
 Folder structure and visual cues help keep files organized:
 
-\- Create descriptive folders: Group files by project, client, or document type. For example, use folders like "Work\_Reports\_2024" or "Personal\_Finance". - Use folder color-coding: Windows doesn’t natively support folder colors, but third-party solutions exist. [Glary Utilities](https://www.glarysoft.com) offers folder management tools, and you can use it to organize and tag your folders for easier identification. - Sort and Group: Use the Sort and Group By options in File Explorer to arrange files by date, type, or other properties.
+\- Create descriptive folders: Group files by project, client, or document type. For example, use folders like "Work_Reports_2024" or "Personal_Finance". - Use folder color-coding: Windows doesn’t natively support folder colors, but third-party solutions exist. [Glary Utilities](https://www.glarysoft.com) offers folder management tools, and you can use it to organize and tag your folders for easier identification. - Sort and Group: Use the Sort and Group By options in File Explorer to arrange files by date, type, or other properties.
 
 Example: Group invoices by month within a “Invoices” folder using subfolders like “2024-01”, “2024-02”, etc.
 

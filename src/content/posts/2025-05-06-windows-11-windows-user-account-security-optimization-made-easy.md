@@ -2,7 +2,7 @@
 title: "Windows 11 Windows User Account Security Optimization Made Easy"
 date: 2025-05-06
 slug: "windows-11-windows-user-account-security-optimization-made-easy"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

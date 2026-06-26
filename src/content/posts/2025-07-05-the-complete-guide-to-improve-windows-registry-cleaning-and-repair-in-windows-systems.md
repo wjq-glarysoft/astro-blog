@@ -2,7 +2,7 @@
 title: "The Complete Guide to Improve Windows Registry Cleaning and Repair in Windows Systems"
 date: 2025-07-05
 slug: "the-complete-guide-to-improve-windows-registry-cleaning-and-repair-in-windows-systems"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

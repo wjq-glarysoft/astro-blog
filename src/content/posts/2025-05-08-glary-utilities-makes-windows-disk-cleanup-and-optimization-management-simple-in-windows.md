@@ -2,7 +2,7 @@
 title: "Glary Utilities Makes Windows Disk Cleanup and Optimization Management Simple in Windows"
 date: 2025-05-08
 slug: "glary-utilities-makes-windows-disk-cleanup-and-optimization-management-simple-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

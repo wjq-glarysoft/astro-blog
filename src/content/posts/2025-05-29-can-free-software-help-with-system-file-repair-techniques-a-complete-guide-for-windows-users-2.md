@@ -2,7 +2,7 @@
 title: "Can Free Software Help with System File Repair Techniques? A Complete Guide for Windows Users"
 date: 2025-05-29
 slug: "can-free-software-help-with-system-file-repair-techniques-a-complete-guide-for-windows-users-2"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

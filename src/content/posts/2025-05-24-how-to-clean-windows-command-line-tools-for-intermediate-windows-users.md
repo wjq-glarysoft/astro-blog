@@ -2,7 +2,7 @@
 title: "How to Clean Windows Command Line Tools for Intermediate Windows Users"
 date: 2025-05-24
 slug: "how-to-clean-windows-command-line-tools-for-intermediate-windows-users"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

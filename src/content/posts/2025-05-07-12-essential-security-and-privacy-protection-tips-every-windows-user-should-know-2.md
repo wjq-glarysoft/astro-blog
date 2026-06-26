@@ -2,7 +2,7 @@
 title: "12 Essential Security and Privacy Protection Tips Every Windows User Should Know"
 date: 2025-05-07
 slug: "12-essential-security-and-privacy-protection-tips-every-windows-user-should-know-2"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

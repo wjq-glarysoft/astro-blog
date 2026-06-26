@@ -2,7 +2,7 @@
 title: "7 Essential File Compression Techniques Tips Every Windows User Should Know"
 date: 2025-07-06
 slug: "7-essential-file-compression-techniques-tips-every-windows-user-should-know-2"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

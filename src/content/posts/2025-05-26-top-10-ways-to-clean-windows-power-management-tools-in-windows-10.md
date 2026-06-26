@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Clean Windows Power Management Tools in Windows 10"
 date: 2025-05-26
 slug: "top-10-ways-to-clean-windows-power-management-tools-in-windows-10"
-categories: 
+categories:
   - "system-tools"
 author: "Nova"
 ---

@@ -2,7 +2,7 @@
 title: "Windows Tools Makes Windows Command Line Tools Management Simple in Windows"
 date: 2025-06-22
 slug: "windows-tools-makes-windows-command-line-tools-management-simple-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "Which Windows performance optimization tips Methods Work Best for Windows 11?"
 date: 2025-05-20
 slug: "which-windows-performance-optimization-tips-methods-work-best-for-windows-11"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "The 5 Most Effective System Optimization and Maintenance Strategies for Windows 11"
 date: 2025-05-08
 slug: "the-5-most-effective-system-optimization-and-maintenance-strategies-for-windows-11"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

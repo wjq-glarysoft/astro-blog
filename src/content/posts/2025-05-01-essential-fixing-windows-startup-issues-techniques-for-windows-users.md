@@ -2,7 +2,7 @@
 title: "Essential Fixing Windows Startup Issues Techniques for Windows Users"
 date: 2025-05-01
 slug: "essential-fixing-windows-startup-issues-techniques-for-windows-users"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

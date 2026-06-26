@@ -2,7 +2,7 @@
 title: "Essential Windows Performance Troubleshooting Techniques for Windows Users"
 date: 2025-04-26
 slug: "essential-windows-performance-troubleshooting-techniques-for-windows-users"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "12 Windows Tools Features for Better Windows Update Repair Techniques Management"
 date: 2025-04-26
 slug: "12-windows-tools-features-for-better-windows-update-repair-techniques-management"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

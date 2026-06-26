@@ -2,7 +2,7 @@
 title: "Beginner's Guide to Windows User Account Security Management in Windows"
 date: 2025-04-25
 slug: "beginners-guide-to-windows-user-account-security-management-in-windows"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

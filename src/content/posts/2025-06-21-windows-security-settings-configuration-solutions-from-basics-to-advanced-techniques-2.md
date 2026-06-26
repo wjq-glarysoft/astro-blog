@@ -2,7 +2,7 @@
 title: "Windows Security Settings Configuration Solutions: From Basics to Advanced Techniques"
 date: 2025-06-21
 slug: "windows-security-settings-configuration-solutions-from-basics-to-advanced-techniques-2"
-categories: 
+categories:
   - "privacy-security"
 author: "Skher"
 ---

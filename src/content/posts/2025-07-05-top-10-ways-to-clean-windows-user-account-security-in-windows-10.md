@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Clean Windows User Account Security in Windows 10"
 date: 2025-07-05
 slug: "top-10-ways-to-clean-windows-user-account-security-in-windows-10"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

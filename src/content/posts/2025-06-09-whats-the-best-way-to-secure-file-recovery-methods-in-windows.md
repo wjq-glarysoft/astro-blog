@@ -2,7 +2,7 @@
 title: "What's the Best Way to Secure File Recovery Methods in Windows?"
 date: 2025-06-09
 slug: "whats-the-best-way-to-secure-file-recovery-methods-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

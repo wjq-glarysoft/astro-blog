@@ -2,7 +2,7 @@
 title: "Windows System Optimization with Glary Utilities Solutions: From Basics to Advanced Techniques"
 date: 2025-05-06
 slug: "windows-system-optimization-with-glary-utilities-solutions-from-basics-to-advanced-techniques"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

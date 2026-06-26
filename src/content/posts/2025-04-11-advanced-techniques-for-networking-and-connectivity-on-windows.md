@@ -2,7 +2,7 @@
 title: "Advanced Techniques for Networking and Connectivity on Windows"
 date: 2025-04-11
 slug: "advanced-techniques-for-networking-and-connectivity-on-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

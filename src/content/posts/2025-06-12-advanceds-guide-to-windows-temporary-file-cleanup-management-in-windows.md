@@ -2,7 +2,7 @@
 title: "Advanced's Guide to Windows Temporary File Cleanup Management in Windows"
 date: 2025-06-12
 slug: "advanceds-guide-to-windows-temporary-file-cleanup-management-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

@@ -2,7 +2,7 @@
 title: "Effective Windows Registry Cleaning and Repair Management for Windows 10 & 11 Users"
 date: 2025-05-20
 slug: "effective-windows-registry-cleaning-and-repair-management-for-windows-10-11-users"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

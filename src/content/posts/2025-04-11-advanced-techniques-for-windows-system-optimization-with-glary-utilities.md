@@ -2,7 +2,7 @@
 title: "Advanced Techniques for Windows System Optimization with Glary Utilities"
 date: 2025-04-11
 slug: "advanced-techniques-for-windows-system-optimization-with-glary-utilities"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

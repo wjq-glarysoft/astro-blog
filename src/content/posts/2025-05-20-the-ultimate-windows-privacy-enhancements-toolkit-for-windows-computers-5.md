@@ -2,7 +2,7 @@
 title: "The Ultimate Windows Privacy Enhancements Toolkit for Windows Computers"
 date: 2025-05-20
 slug: "the-ultimate-windows-privacy-enhancements-toolkit-for-windows-computers-5"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

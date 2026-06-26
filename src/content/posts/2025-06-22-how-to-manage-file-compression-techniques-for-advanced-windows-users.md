@@ -2,7 +2,7 @@
 title: "How to Manage File Compression Techniques for Advanced Windows Users?"
 date: 2025-06-22
 slug: "how-to-manage-file-compression-techniques-for-advanced-windows-users"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

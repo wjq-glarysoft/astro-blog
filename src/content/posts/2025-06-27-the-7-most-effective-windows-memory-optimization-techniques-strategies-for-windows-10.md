@@ -2,7 +2,7 @@
 title: "The 7 Most Effective Windows Memory Optimization Techniques Strategies for Windows 10"
 date: 2025-06-27
 slug: "the-7-most-effective-windows-memory-optimization-techniques-strategies-for-windows-10"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

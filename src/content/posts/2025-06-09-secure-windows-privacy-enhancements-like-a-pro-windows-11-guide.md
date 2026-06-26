@@ -2,7 +2,7 @@
 title: "secure Windows privacy enhancements Like a Pro: Windows 11 Guide"
 date: 2025-06-09
 slug: "secure-windows-privacy-enhancements-like-a-pro-windows-11-guide"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---
@@ -49,7 +49,7 @@ How Can Group Policy and Registry Tweaks Boost Privacy?
 
 Advanced users can leverage Group Policy and Registry changes for granular control:
 
-\- Disable Cortana: - gpedit.msc > Computer Configuration > Administrative Templates > Windows Components > Search > Allow Cortana > Disabled. - Prevent advertising ID tracking: - Settings > Privacy & security > General > Turn off “Let apps use advertising ID.” - Registry: Open regedit, navigate to HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection Set AllowTelemetry to 0
+\- Disable Cortana: - gpedit.msc > Computer Configuration > Administrative Templates > Windows Components > Search > Allow Cortana > Disabled. - Prevent advertising ID tracking: - Settings > Privacy & security > General > Turn off “Let apps use advertising ID.” - Registry: Open regedit, navigate to HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection Set AllowTelemetry to 0
 
 What Role Does Glary Utilities Play in Privacy Protection?
 

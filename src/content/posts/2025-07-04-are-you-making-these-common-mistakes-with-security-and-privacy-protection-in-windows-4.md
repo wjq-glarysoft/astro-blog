@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Security and Privacy Protection in Windows?"
 date: 2025-07-04
 slug: "are-you-making-these-common-mistakes-with-security-and-privacy-protection-in-windows-4"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

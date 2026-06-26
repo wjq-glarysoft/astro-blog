@@ -2,7 +2,7 @@
 title: "When Should You Clean Windows File Sharing and Permissions on Your Windows Computer?"
 date: 2025-06-08
 slug: "when-should-you-clean-windows-file-sharing-and-permissions-on-your-windows-computer-2"
-categories: 
+categories:
   - "files-folders"
 author: "Skher"
 ---

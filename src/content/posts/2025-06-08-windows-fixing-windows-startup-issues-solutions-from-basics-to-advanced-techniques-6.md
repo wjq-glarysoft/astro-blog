@@ -2,7 +2,7 @@
 title: "Windows Fixing Windows Startup Issues Solutions: From Basics to Advanced Techniques"
 date: 2025-06-08
 slug: "windows-fixing-windows-startup-issues-solutions-from-basics-to-advanced-techniques-6"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Finn"
 ---

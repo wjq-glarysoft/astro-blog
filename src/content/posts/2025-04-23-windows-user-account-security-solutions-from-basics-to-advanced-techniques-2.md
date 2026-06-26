@@ -2,7 +2,7 @@
 title: "Windows User Account Security Solutions: From Basics to Advanced Techniques"
 date: 2025-04-23
 slug: "windows-user-account-security-solutions-from-basics-to-advanced-techniques-2"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

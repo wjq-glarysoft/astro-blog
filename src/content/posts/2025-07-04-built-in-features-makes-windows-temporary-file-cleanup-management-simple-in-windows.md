@@ -2,7 +2,7 @@
 title: "Built-in Features Makes Windows Temporary File Cleanup Management Simple in Windows"
 date: 2025-07-04
 slug: "built-in-features-makes-windows-temporary-file-cleanup-management-simple-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

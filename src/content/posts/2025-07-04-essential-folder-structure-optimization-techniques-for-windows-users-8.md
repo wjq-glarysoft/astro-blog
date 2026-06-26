@@ -2,7 +2,7 @@
 title: "Essential Folder Structure Optimization Techniques for Windows Users"
 date: 2025-07-04
 slug: "essential-folder-structure-optimization-techniques-for-windows-users-8"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

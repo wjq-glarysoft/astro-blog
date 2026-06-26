@@ -2,7 +2,7 @@
 title: "Advanced Techniques for Windows File Management and Cleanup"
 date: 2025-04-11
 slug: "advanced-techniques-for-windows-file-management-and-cleanup-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

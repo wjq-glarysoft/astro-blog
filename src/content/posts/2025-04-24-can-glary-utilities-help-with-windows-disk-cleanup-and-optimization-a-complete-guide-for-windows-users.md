@@ -2,7 +2,7 @@
 title: "Can Glary Utilities Help with Windows Disk Cleanup and Optimization? A Complete Guide for Windows Users"
 date: 2025-04-24
 slug: "can-glary-utilities-help-with-windows-disk-cleanup-and-optimization-a-complete-guide-for-windows-users"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

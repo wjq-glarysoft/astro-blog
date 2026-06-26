@@ -2,7 +2,7 @@
 title: "Built-in Features Makes Windows Command Line Tools Management Simple in Windows"
 date: 2025-05-24
 slug: "built-in-features-makes-windows-command-line-tools-management-simple-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Nova"
 ---

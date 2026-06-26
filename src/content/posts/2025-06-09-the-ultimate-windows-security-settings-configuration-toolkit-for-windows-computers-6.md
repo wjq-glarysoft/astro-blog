@@ -2,7 +2,7 @@
 title: "The Ultimate Windows Security Settings Configuration Toolkit for Windows Computers"
 date: 2025-06-09
 slug: "the-ultimate-windows-security-settings-configuration-toolkit-for-windows-computers-6"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

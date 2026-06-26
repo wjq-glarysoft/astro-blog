@@ -2,7 +2,7 @@
 title: "repair Windows privacy enhancements Like a Pro: Windows 10 Guide"
 date: 2025-06-09
 slug: "repair-windows-privacy-enhancements-like-a-pro-windows-10-guide"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

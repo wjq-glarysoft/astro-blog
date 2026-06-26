@@ -2,7 +2,7 @@
 title: "7 Glary Utilities Features for Better Folder Structure Optimization Management"
 date: 2025-05-18
 slug: "7-glary-utilities-features-for-better-folder-structure-optimization-management"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

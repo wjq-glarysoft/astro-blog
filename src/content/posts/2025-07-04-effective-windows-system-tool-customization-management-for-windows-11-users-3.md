@@ -2,7 +2,7 @@
 title: "Effective Windows system tool customization Management for Windows 11 Users"
 date: 2025-07-04
 slug: "effective-windows-system-tool-customization-management-for-windows-11-users-3"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

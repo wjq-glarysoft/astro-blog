@@ -2,7 +2,7 @@
 title: "Windows File Explorer Tips and Tricks Solutions: From Basics to Advanced Techniques"
 date: 2025-06-08
 slug: "windows-file-explorer-tips-and-tricks-solutions-from-basics-to-advanced-techniques-4"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

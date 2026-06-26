@@ -2,7 +2,7 @@
 title: "Effective Windows Visual Effects Optimization Management for Windows Systems Users"
 date: 2025-05-29
 slug: "effective-windows-visual-effects-optimization-management-for-windows-systems-users-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---
@@ -37,7 +37,7 @@ Advanced User Techniques: Fine-Tuning and Automation
 
 Advanced users often require more granular control. Here are expert methods to optimize visual effects with precision:
 
-1\. Use the Windows Registry for Customization - Open the Registry Editor (type regedit in the search box and run as administrator). - Navigate to HKEY\_CURRENT\_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\VisualEffects. - Here, you can tweak individual parameters for specific effects. Be cautious and back up your registry before making changes.
+1\. Use the Windows Registry for Customization - Open the Registry Editor (type regedit in the search box and run as administrator). - Navigate to HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\VisualEffects. - Here, you can tweak individual parameters for specific effects. Be cautious and back up your registry before making changes.
 
 2\. Use PowerShell Scripts for Automation - Advanced users can deploy scripts to toggle specific effects—ideal for deploying settings across multiple PCs or restoring preferences after a major update.
 

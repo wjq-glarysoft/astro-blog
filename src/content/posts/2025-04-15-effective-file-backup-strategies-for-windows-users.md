@@ -2,7 +2,7 @@
 title: "Effective File Backup Strategies for Windows Users"
 date: 2025-04-15
 slug: "effective-file-backup-strategies-for-windows-users"
-categories: 
+categories:
   - "files-folders"
 author: "Finn"
 ---

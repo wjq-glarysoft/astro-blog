@@ -2,7 +2,7 @@
 title: "5 Essential Windows System Optimization with Glary Utilities Tips Every Windows User Should Know"
 date: 2025-04-24
 slug: "5-essential-windows-system-optimization-with-glary-utilities-tips-every-windows-user-should-know"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

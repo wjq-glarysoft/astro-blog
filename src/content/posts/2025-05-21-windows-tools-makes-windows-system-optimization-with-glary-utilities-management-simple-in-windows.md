@@ -2,7 +2,7 @@
 title: "Windows Tools Makes Windows system optimization with Glary Utilities Management Simple in Windows"
 date: 2025-05-21
 slug: "windows-tools-makes-windows-system-optimization-with-glary-utilities-management-simple-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

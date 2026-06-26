@@ -2,7 +2,7 @@
 title: "Advanced Techniques for Troubleshooting Common Windows Issues"
 date: 2025-04-11
 slug: "advanced-techniques-for-troubleshooting-common-windows-issues"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

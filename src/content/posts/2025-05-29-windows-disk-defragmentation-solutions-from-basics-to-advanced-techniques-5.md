@@ -2,7 +2,7 @@
 title: "Windows Disk Defragmentation Solutions: From Basics to Advanced Techniques"
 date: 2025-05-29
 slug: "windows-disk-defragmentation-solutions-from-basics-to-advanced-techniques-5"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

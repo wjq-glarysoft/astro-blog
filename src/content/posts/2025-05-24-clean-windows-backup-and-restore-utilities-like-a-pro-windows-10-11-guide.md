@@ -2,7 +2,7 @@
 title: "clean Windows backup and restore utilities Like a Pro: Windows 10 & 11 Guide"
 date: 2025-05-24
 slug: "clean-windows-backup-and-restore-utilities-like-a-pro-windows-10-11-guide"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

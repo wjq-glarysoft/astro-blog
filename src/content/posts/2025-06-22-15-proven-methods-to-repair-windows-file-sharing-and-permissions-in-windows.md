@@ -2,7 +2,7 @@
 title: "15 Proven Methods to Repair Windows File Sharing and Permissions in Windows"
 date: 2025-06-22
 slug: "15-proven-methods-to-repair-windows-file-sharing-and-permissions-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

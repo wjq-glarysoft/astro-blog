@@ -2,7 +2,7 @@
 title: "Boosting Windows Performance: Best Practices for Optimal Efficiency"
 date: 2025-04-17
 slug: "boosting-windows-performance-best-practices-for-optimal-efficiency"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

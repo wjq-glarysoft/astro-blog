@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Windows Visual Effects Optimization in Windows?"
 date: 2025-06-12
 slug: "are-you-making-these-common-mistakes-with-windows-visual-effects-optimization-in-windows-3"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---
@@ -31,7 +31,7 @@ Advanced User Section: Going Beyond Basic Tweaks
 
 Are you missing out on registry-level or Group Policy tweaks? Advanced users sometimes overlook more granular control available through the registry or Group Policy Editor. For example, you can disable only specific animations or effects that aren’t exposed in the standard interface.
 
-Expert Fix: To disable unnecessary window animations via the registry: 1. Press Windows + R, type regedit, and press Enter. 2. Navigate to: HKEY\_CURRENT\_USER\\Control Panel\\Desktop\\WindowMetrics 3. Adjust or create DWORD values such as MinAnimate (set to 0 to disable minimize/maximize animation). 4. Restart your PC for changes to take effect.
+Expert Fix: To disable unnecessary window animations via the registry: 1. Press Windows + R, type regedit, and press Enter. 2. Navigate to: HKEY_CURRENT_USER\\Control Panel\\Desktop\\WindowMetrics 3. Adjust or create DWORD values such as MinAnimate (set to 0 to disable minimize/maximize animation). 4. Restart your PC for changes to take effect.
 
 Warning: Always back up your registry before making changes.
 

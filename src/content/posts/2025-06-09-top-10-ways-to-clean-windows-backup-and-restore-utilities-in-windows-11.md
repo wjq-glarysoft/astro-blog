@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Clean Windows Backup and Restore Utilities in Windows 11"
 date: 2025-06-09
 slug: "top-10-ways-to-clean-windows-backup-and-restore-utilities-in-windows-11"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

@@ -2,7 +2,7 @@
 title: "Windows Temporary File Cleanup Solutions: From Basics to Advanced Techniques"
 date: 2025-07-03
 slug: "windows-temporary-file-cleanup-solutions-from-basics-to-advanced-techniques-4"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

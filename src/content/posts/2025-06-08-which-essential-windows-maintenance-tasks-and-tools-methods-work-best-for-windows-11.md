@@ -2,7 +2,7 @@
 title: "Which Essential Windows Maintenance Tasks and Tools Methods Work Best for Windows 11?"
 date: 2025-06-08
 slug: "which-essential-windows-maintenance-tasks-and-tools-methods-work-best-for-windows-11"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

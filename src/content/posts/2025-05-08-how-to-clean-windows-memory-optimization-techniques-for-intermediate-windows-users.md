@@ -2,7 +2,7 @@
 title: "How to clean Windows memory optimization techniques for Intermediate Windows Users?"
 date: 2025-05-08
 slug: "how-to-clean-windows-memory-optimization-techniques-for-intermediate-windows-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

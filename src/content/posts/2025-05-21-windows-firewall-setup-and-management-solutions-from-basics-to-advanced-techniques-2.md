@@ -2,7 +2,7 @@
 title: "Windows Firewall Setup and Management Solutions: From Basics to Advanced Techniques"
 date: 2025-05-21
 slug: "windows-firewall-setup-and-management-solutions-from-basics-to-advanced-techniques-2"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

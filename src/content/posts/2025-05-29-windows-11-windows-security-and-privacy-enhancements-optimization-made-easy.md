@@ -2,7 +2,7 @@
 title: "Windows 11 Windows Security and Privacy Enhancements Optimization Made Easy"
 date: 2025-05-29
 slug: "windows-11-windows-security-and-privacy-enhancements-optimization-made-easy"
-categories: 
+categories:
   - "privacy-security"
 author: "Nova"
 ---

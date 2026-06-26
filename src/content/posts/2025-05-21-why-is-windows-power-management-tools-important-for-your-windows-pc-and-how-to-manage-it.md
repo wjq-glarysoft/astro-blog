@@ -2,7 +2,7 @@
 title: "Why is Windows Power Management Tools Important for Your Windows PC and How to Manage It?"
 date: 2025-05-21
 slug: "why-is-windows-power-management-tools-important-for-your-windows-pc-and-how-to-manage-it"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

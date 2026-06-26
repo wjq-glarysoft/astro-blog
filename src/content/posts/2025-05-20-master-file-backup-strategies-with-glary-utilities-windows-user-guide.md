@@ -2,7 +2,7 @@
 title: "Master file backup strategies with Glary Utilities: Windows User Guide"
 date: 2025-05-20
 slug: "master-file-backup-strategies-with-glary-utilities-windows-user-guide"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

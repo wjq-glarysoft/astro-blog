@@ -2,7 +2,7 @@
 title: "5 Essential Windows Performance Optimization Tips Every Windows User Should Know"
 date: 2025-05-18
 slug: "5-essential-windows-performance-optimization-tips-every-windows-user-should-know-3"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

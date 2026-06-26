@@ -2,7 +2,7 @@
 title: "7 Proven Methods to Repair Windows CPU Performance Tuning in Windows"
 date: 2025-04-26
 slug: "7-proven-methods-to-repair-windows-cpu-performance-tuning-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

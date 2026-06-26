@@ -2,7 +2,7 @@
 title: "Essential File Management and Organization Techniques for Windows Users"
 date: 2025-07-05
 slug: "essential-file-management-and-organization-techniques-for-windows-users-6"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---
@@ -23,7 +23,7 @@ How Should You Name Your Files?
 
 Meaningful file names make searching and sorting much easier. Here are some tips:
 
-\- Use dates in the YYYY-MM-DD format at the beginning of file names for sorting (example: 2024-06-14\_ProjectProposal.docx). - Include project or subject details in the file name. - Avoid special characters (\\, /, :, \*, ?, ", , |) as Windows doesn’t allow them in file names. - Be consistent. Develop a naming scheme and stick to it across all your files.
+\- Use dates in the YYYY-MM-DD format at the beginning of file names for sorting (example: 2024-06-14_ProjectProposal.docx). - Include project or subject details in the file name. - Avoid special characters (\\, /, :, \*, ?, ", , |) as Windows doesn’t allow them in file names. - Be consistent. Develop a naming scheme and stick to it across all your files.
 
 How to Use Windows Features for Efficient Management
 

@@ -2,7 +2,7 @@
 title: "Windows 11 Windows File Explorer Tips and Tricks: Optimization Made Easy"
 date: 2025-05-06
 slug: "windows-11-windows-file-explorer-tips-and-tricks-optimization-made-easy-2"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

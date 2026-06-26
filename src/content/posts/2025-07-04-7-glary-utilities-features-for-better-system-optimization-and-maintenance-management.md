@@ -2,7 +2,7 @@
 title: "7 Glary Utilities Features for Better System Optimization and Maintenance Management"
 date: 2025-07-04
 slug: "7-glary-utilities-features-for-better-system-optimization-and-maintenance-management"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

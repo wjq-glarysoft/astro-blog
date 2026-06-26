@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with File Backup Strategies in Windows?"
 date: 2025-04-26
 slug: "are-you-making-these-common-mistakes-with-file-backup-strategies-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Finn"
 ---

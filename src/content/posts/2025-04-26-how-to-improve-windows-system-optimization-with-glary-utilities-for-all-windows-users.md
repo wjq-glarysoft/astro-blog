@@ -2,7 +2,7 @@
 title: "How to improve Windows system optimization with Glary Utilities for All Windows Users?"
 date: 2025-04-26
 slug: "how-to-improve-windows-system-optimization-with-glary-utilities-for-all-windows-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

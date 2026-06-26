@@ -2,7 +2,7 @@
 title: "Intermediate's Guide to Windows Performance Optimization Tips Management in Windows"
 date: 2025-05-01
 slug: "intermediates-guide-to-windows-performance-optimization-tips-management-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

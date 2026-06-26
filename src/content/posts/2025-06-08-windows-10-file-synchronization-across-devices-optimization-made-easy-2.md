@@ -2,7 +2,7 @@
 title: "Windows 10 File Synchronization Across Devices Optimization Made Easy"
 date: 2025-06-08
 slug: "windows-10-file-synchronization-across-devices-optimization-made-easy-2"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

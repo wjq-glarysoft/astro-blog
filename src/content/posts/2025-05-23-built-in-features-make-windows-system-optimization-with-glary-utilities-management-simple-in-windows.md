@@ -2,7 +2,7 @@
 title: "Built-in Features Make Windows System Optimization with Glary Utilities Management Simple in Windows"
 date: 2025-05-23
 slug: "built-in-features-make-windows-system-optimization-with-glary-utilities-management-simple-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

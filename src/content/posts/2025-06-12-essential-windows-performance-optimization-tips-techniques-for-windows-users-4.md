@@ -2,7 +2,7 @@
 title: "Essential Windows Performance Optimization Tips: Techniques for Windows Users"
 date: 2025-06-12
 slug: "essential-windows-performance-optimization-tips-techniques-for-windows-users-4"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

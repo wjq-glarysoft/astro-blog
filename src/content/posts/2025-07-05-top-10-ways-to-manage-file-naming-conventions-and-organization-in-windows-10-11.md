@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Manage File Naming Conventions and Organization in Windows 10 & 11"
 date: 2025-07-05
 slug: "top-10-ways-to-manage-file-naming-conventions-and-organization-in-windows-10-11"
-categories: 
+categories:
   - "files-folders"
 author: "Skher"
 ---
@@ -17,7 +17,7 @@ Strategies for Beginners
 
 1\. What Makes a Good File Naming Convention? A good convention is simple, consistent, and descriptive. Use names that make sense months from now.
 
-Example: For invoices: 2024-06-01\_ClientName\_Invoice.pdf For meeting notes: 2024-06-ProjectName-Meeting.docx
+Example: For invoices: 2024-06-01_ClientName_Invoice.pdf For meeting notes: 2024-06-ProjectName-Meeting.docx
 
 Tips: - Start with the date (YYYY-MM-DD format for proper sorting) - Use underscores or dashes instead of spaces to avoid compatibility issues - Avoid special characters like / ? \\ : \* | " - Be consistent—if you use “Report” or “Rpt,” stick to one
 

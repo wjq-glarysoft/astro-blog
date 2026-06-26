@@ -2,7 +2,7 @@
 title: "When Should You Clean Windows Command Line Tools on Your Windows Computer?"
 date: 2025-07-05
 slug: "when-should-you-clean-windows-command-line-tools-on-your-windows-computer"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---

@@ -2,7 +2,7 @@
 title: "Windows 11 Windows System Tool Customization Optimization Made Easy"
 date: 2025-06-09
 slug: "windows-11-windows-system-tool-customization-optimization-made-easy"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

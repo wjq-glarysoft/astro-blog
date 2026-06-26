@@ -2,7 +2,7 @@
 title: "Effective file recovery methods Management for Windows 11 Users"
 date: 2025-07-05
 slug: "effective-file-recovery-methods-management-for-windows-11-users-2"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

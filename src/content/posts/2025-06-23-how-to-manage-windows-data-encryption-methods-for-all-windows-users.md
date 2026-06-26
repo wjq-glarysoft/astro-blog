@@ -2,7 +2,7 @@
 title: "How to manage Windows data encryption methods for All Windows Users?"
 date: 2025-06-23
 slug: "how-to-manage-windows-data-encryption-methods-for-all-windows-users"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Windows Registry Cleaning and Repair in Windows?"
 date: 2025-05-24
 slug: "are-you-making-these-common-mistakes-with-windows-registry-cleaning-and-repair-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

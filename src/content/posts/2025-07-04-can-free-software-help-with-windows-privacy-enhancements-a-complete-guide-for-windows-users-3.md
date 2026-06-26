@@ -2,7 +2,7 @@
 title: "Can Free Software Help with Windows Privacy Enhancements? A Complete Guide for Windows Users"
 date: 2025-07-04
 slug: "can-free-software-help-with-windows-privacy-enhancements-a-complete-guide-for-windows-users-3"
-categories: 
+categories:
   - "privacy-security"
 author: "Nova"
 ---

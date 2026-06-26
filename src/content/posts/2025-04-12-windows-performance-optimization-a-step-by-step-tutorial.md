@@ -2,7 +2,7 @@
 title: "Windows Performance Optimization: A Step-by-Step Tutorial"
 date: 2025-04-12
 slug: "windows-performance-optimization-a-step-by-step-tutorial"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

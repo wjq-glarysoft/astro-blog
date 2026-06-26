@@ -2,7 +2,7 @@
 title: "Can Windows Tools Help with Windows CPU Performance Tuning? A Complete Guide for Windows Users"
 date: 2025-06-06
 slug: "can-windows-tools-help-with-windows-cpu-performance-tuning-a-complete-guide-for-windows-users-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

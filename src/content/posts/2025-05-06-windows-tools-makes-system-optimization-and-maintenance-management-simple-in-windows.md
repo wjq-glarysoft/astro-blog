@@ -2,7 +2,7 @@
 title: "Windows Tools Makes System Optimization and Maintenance Management Simple in Windows"
 date: 2025-05-06
 slug: "windows-tools-makes-system-optimization-and-maintenance-management-simple-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

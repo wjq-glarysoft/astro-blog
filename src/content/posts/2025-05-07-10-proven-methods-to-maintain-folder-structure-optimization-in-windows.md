@@ -2,7 +2,7 @@
 title: "10 Proven Methods to Maintain Folder Structure Optimization in Windows"
 date: 2025-05-07
 slug: "10-proven-methods-to-maintain-folder-structure-optimization-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---
@@ -25,7 +25,7 @@ For Advanced Users: Develop a multi-level hierarchy that reflects your workflow.
 
 For Beginners: Use clear and descriptive names for your folders. Avoid vague terms like "Miscellaneous." Instead, use specific names like "Q1 Reports" or "Family Photos."
 
-For Advanced Users: Adopt a standardized naming system that includes dates or version numbers (e.g., "2023\_Annual\_Report" or "MeetingNotes\_2023\_01"). This consistency helps in sorting and searching.
+For Advanced Users: Adopt a standardized naming system that includes dates or version numbers (e.g., "2023_Annual_Report" or "MeetingNotes_2023_01"). This consistency helps in sorting and searching.
 
 3\. What Are the Benefits of Regular Cleanup?
 

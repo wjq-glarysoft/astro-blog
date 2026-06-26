@@ -2,7 +2,7 @@
 title: "optimize Windows error fixing methods Like a Pro: Windows 10 Guide"
 date: 2025-07-05
 slug: "optimize-windows-error-fixing-methods-like-a-pro-windows-10-guide"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

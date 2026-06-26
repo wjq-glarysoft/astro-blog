@@ -2,7 +2,7 @@
 title: "Free Software Makes File Management and Organization Simple in Windows"
 date: 2025-06-22
 slug: "free-software-makes-file-management-and-organization-simple-in-windows-4"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

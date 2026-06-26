@@ -2,7 +2,7 @@
 title: "How to Monitor Windows System Optimization with Glary Utilities for Intermediate Windows Users"
 date: 2025-05-24
 slug: "how-to-monitor-windows-system-optimization-with-glary-utilities-for-intermediate-windows-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

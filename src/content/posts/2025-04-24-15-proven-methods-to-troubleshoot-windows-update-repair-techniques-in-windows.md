@@ -2,7 +2,7 @@
 title: "15 Proven Methods to Troubleshoot Windows Update Repair Techniques in Windows"
 date: 2025-04-24
 slug: "15-proven-methods-to-troubleshoot-windows-update-repair-techniques-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Finn"
 ---

@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Maintain Folder Structure Optimization in Windows 10 & 11"
 date: 2025-07-05
 slug: "top-10-ways-to-maintain-folder-structure-optimization-in-windows-10-11"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---
@@ -25,7 +25,7 @@ Real-world example: For a student, folders might look like Documents > School > 
 
 Use clear, descriptive names and follow a consistent naming convention. Avoid special characters and superfluous words.
 
-Practical tip: Use YYYY-MM-DD format for dates (e.g., "2024-06-19\_MeetingNotes") to keep items in chronological order.
+Practical tip: Use YYYY-MM-DD format for dates (e.g., "2024-06-19_MeetingNotes") to keep items in chronological order.
 
 3\. Avoid Over-Nesting
 

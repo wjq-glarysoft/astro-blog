@@ -2,7 +2,7 @@
 title: "How to Troubleshoot Windows System Monitoring Tools for Intermediate Windows Users"
 date: 2025-04-26
 slug: "how-to-troubleshoot-windows-system-monitoring-tools-for-intermediate-windows-users"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

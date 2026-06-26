@@ -2,7 +2,7 @@
 title: "Time-Saving Tips for Enhancing Security and Privacy on Your Windows PC"
 date: 2025-04-12
 slug: "time-saving-tips-for-enhancing-security-and-privacy-on-your-windows-pc"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

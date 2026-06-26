@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Configure Windows Power Management Tools in Windows 10 & 11"
 date: 2025-06-09
 slug: "top-10-ways-to-configure-windows-power-management-tools-in-windows-10-11"
-categories: 
+categories:
   - "system-tools"
 author: "Nova"
 ---
@@ -77,7 +77,7 @@ Advanced users can use the Command Prompt for detailed power management via the 
 
 Example tasks: - To view all power schemes: powercfg /list
 
-\- To activate High Performance: powercfg /setactive SCHEME\_MIN
+\- To activate High Performance: powercfg /setactive SCHEME_MIN
 
 \- To generate a battery report: powercfg /batteryreport
 

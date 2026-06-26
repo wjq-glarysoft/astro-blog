@@ -2,7 +2,7 @@
 title: "What's the Best Way to Maintain File Compression Techniques in Windows?"
 date: 2025-05-20
 slug: "whats-the-best-way-to-maintain-file-compression-techniques-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Finn"
 ---

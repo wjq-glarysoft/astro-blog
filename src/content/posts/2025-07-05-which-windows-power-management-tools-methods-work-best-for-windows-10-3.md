@@ -2,7 +2,7 @@
 title: "Which Windows Power Management Tools Methods Work Best for Windows 10?"
 date: 2025-07-05
 slug: "which-windows-power-management-tools-methods-work-best-for-windows-10-3"
-categories: 
+categories:
   - "system-tools"
 author: "Nova"
 ---

@@ -2,7 +2,7 @@
 title: "Essential Windows File Explorer Tips and Tricks: Techniques for Windows Users"
 date: 2025-06-23
 slug: "essential-windows-file-explorer-tips-and-tricks-techniques-for-windows-users-2"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

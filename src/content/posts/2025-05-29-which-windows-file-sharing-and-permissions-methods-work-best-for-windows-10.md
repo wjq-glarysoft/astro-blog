@@ -2,7 +2,7 @@
 title: "Which Windows file sharing and permissions Methods Work Best for Windows 10?"
 date: 2025-05-29
 slug: "which-windows-file-sharing-and-permissions-methods-work-best-for-windows-10"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

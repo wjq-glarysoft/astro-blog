@@ -2,7 +2,7 @@
 title: "Can Glary Utilities Help with Windows password protection strategies? A Complete Guide for Windows Users"
 date: 2025-05-24
 slug: "can-glary-utilities-help-with-windows-password-protection-strategies-a-complete-guide-for-windows-users"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

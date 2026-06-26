@@ -2,7 +2,7 @@
 title: "Master file synchronization across devices with Windows Tools: Windows User Guide"
 date: 2025-06-27
 slug: "master-file-synchronization-across-devices-with-windows-tools-windows-user-guide-3"
-categories: 
+categories:
   - "files-folders"
 author: "Finn"
 ---

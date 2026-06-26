@@ -2,7 +2,7 @@
 title: "Master Windows command line tools with Free Software: Windows User Guide"
 date: 2025-05-23
 slug: "master-windows-command-line-tools-with-free-software-windows-user-guide"
-categories: 
+categories:
   - "system-tools"
 author: "Nova"
 ---
@@ -61,7 +61,7 @@ Windows Task Scheduler is your ally for automating command line scripts and Glar
 
 For example, to run a PowerShell cleanup script daily:
 
-1\. Create your script, e.g., clean\_temp.ps1. 2. Open Task Scheduler > Create Basic Task. 3. Set the trigger (e.g., Daily). 4. For action, select Start a Program and point to powershell.exe with arguments: -ExecutionPolicy Bypass -File "C:\\Scripts\\clean\_temp.ps1"
+1\. Create your script, e.g., clean_temp.ps1. 2. Open Task Scheduler > Create Basic Task. 3. Set the trigger (e.g., Daily). 4. For action, select Start a Program and point to powershell.exe with arguments: -ExecutionPolicy Bypass -File "C:\\Scripts\\clean_temp.ps1"
 
 What Best Practices Should Advanced Users Follow?
 

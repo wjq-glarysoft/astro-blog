@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Repair Windows Data Encryption Methods in Windows 11"
 date: 2025-05-20
 slug: "top-10-ways-to-repair-windows-data-encryption-methods-in-windows-11"
-categories: 
+categories:
   - "privacy-security"
 author: "Nova"
 ---

@@ -2,7 +2,7 @@
 title: "Common Mistakes to Avoid with Windows Backup and Restore Utilities"
 date: 2025-04-15
 slug: "common-mistakes-to-avoid-with-windows-backup-and-restore-utilities"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

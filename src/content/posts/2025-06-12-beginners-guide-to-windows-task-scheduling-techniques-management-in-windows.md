@@ -2,7 +2,7 @@
 title: "Beginner's Guide to Windows Task Scheduling Techniques Management in Windows"
 date: 2025-06-12
 slug: "beginners-guide-to-windows-task-scheduling-techniques-management-in-windows"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---

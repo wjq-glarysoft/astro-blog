@@ -2,7 +2,7 @@
 title: "Essential Windows system monitoring and analysis Techniques for Windows Users"
 date: 2025-06-23
 slug: "essential-windows-system-monitoring-and-analysis-techniques-for-windows-users-6"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

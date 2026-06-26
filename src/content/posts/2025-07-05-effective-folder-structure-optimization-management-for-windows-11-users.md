@@ -2,7 +2,7 @@
 title: "Effective Folder Structure Optimization Management for Windows 11 Users"
 date: 2025-07-05
 slug: "effective-folder-structure-optimization-management-for-windows-11-users"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---
@@ -41,7 +41,7 @@ How Can You Move Your Files into the New Structure?
 
 Should You Use Numbers or Dates in Folder Names?
 
-For ongoing projects, naming folders with dates or numbers can help you keep files in order. For example: - 2024-06 Reports - 01\_Project Start, 02\_Mid Review, 03\_Final Submission
+For ongoing projects, naming folders with dates or numbers can help you keep files in order. For example: - 2024-06 Reports - 01_Project Start, 02_Mid Review, 03_Final Submission
 
 How Often Should You Clean Up Your Folders?
 

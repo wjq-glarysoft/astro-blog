@@ -2,7 +2,7 @@
 title: "Avoiding Common Security and Privacy Mistakes on Windows"
 date: 2025-04-11
 slug: "avoiding-common-security-and-privacy-mistakes-on-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

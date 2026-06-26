@@ -2,7 +2,7 @@
 title: "manage Windows temporary file cleanup Like a Pro: Windows 11 Guide"
 date: 2025-07-05
 slug: "manage-windows-temporary-file-cleanup-like-a-pro-windows-11-guide"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

@@ -2,7 +2,7 @@
 title: "Effective Windows Security Settings Configuration Management for Windows 11 Users"
 date: 2025-05-01
 slug: "effective-windows-security-settings-configuration-management-for-windows-11-users"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

@@ -2,7 +2,7 @@
 title: "Can Built-in Features Help with Windows Visual Effects Optimization? A Complete Guide for Windows Users"
 date: 2025-04-24
 slug: "can-built-in-features-help-with-windows-visual-effects-optimization-a-complete-guide-for-windows-users"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

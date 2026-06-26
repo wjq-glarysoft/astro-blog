@@ -2,7 +2,7 @@
 title: "Windows Systems Windows Disk Defragmentation Optimization Made Easy"
 date: 2025-07-05
 slug: "windows-systems-windows-disk-defragmentation-optimization-made-easy"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

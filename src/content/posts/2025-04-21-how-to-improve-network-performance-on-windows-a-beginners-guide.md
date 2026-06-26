@@ -2,7 +2,7 @@
 title: "How to Improve Network Performance on Windows: A Beginner's Guide"
 date: 2025-04-21
 slug: "how-to-improve-network-performance-on-windows-a-beginners-guide"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

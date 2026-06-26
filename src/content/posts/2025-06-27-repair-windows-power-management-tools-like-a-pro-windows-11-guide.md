@@ -2,7 +2,7 @@
 title: "repair Windows power management tools Like a Pro: Windows 11 Guide"
 date: 2025-06-27
 slug: "repair-windows-power-management-tools-like-a-pro-windows-11-guide"
-categories: 
+categories:
   - "system-tools"
 author: "Skher"
 ---

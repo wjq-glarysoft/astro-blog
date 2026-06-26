@@ -2,7 +2,7 @@
 title: "Windows Data Encryption Methods Solutions: From Basics to Advanced Techniques"
 date: 2025-06-09
 slug: "windows-data-encryption-methods-solutions-from-basics-to-advanced-techniques-2"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

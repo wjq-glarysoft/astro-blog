@@ -2,7 +2,7 @@
 title: "Can Free Software Help with Windows System Optimization with Glary Utilities? A Complete Guide for Windows Users"
 date: 2025-06-23
 slug: "can-free-software-help-with-windows-system-optimization-with-glary-utilities-a-complete-guide-for-windows-users-3"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

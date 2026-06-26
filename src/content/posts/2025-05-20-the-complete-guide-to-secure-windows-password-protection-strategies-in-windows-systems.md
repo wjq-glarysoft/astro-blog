@@ -2,7 +2,7 @@
 title: "The Complete Guide to Secure Windows Password Protection Strategies in Windows Systems"
 date: 2025-05-20
 slug: "the-complete-guide-to-secure-windows-password-protection-strategies-in-windows-systems"
-categories: 
+categories:
   - "privacy-security"
 author: "Skher"
 ---

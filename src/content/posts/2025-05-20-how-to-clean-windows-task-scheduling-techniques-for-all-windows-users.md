@@ -2,7 +2,7 @@
 title: "How to Clean Windows Task Scheduling Techniques for All Windows Users"
 date: 2025-05-20
 slug: "how-to-clean-windows-task-scheduling-techniques-for-all-windows-users"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

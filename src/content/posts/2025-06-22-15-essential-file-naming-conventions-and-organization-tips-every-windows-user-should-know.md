@@ -2,7 +2,7 @@
 title: "15 Essential File Naming Conventions and Organization Tips Every Windows User Should Know"
 date: 2025-06-22
 slug: "15-essential-file-naming-conventions-and-organization-tips-every-windows-user-should-know"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---
@@ -19,19 +19,19 @@ Windows does not allow certain characters in file and folder names, such as \\ /
 
 2\. Do You Rely on Spaces or Avoid Them Altogether?
 
-While Windows supports spaces in names, they can introduce problems in scripts and command-line operations. Consider using underscores (\_) or hyphens (-) instead. For example, use "Annual\_Report\_2023.xlsx" rather than "Annual Report 2023.xlsx" for greater compatibility.
+While Windows supports spaces in names, they can introduce problems in scripts and command-line operations. Consider using underscores (\_) or hyphens (-) instead. For example, use "Annual_Report_2023.xlsx" rather than "Annual Report 2023.xlsx" for greater compatibility.
 
 3\. Are You Using Clear, Consistent Naming Schemes?
 
-Inconsistent naming leads to confusion and difficult searches. Establish a convention and apply it universally: for instance, "YYYY-MM-DD\_ProjectName\_Version" (e.g., 2024-06-01\_MarketingDeck\_v2.pptx). This makes sorting and identification much easier.
+Inconsistent naming leads to confusion and difficult searches. Establish a convention and apply it universally: for instance, "YYYY-MM-DD_ProjectName_Version" (e.g., 2024-06-01_MarketingDeck_v2.pptx). This makes sorting and identification much easier.
 
 4\. Do You Separate Versions Clearly?
 
-Avoid ambiguous tags like "Final" or "Latest" in file names, as they quickly become obsolete. Instead, use version numbers: "Proposal\_v1.docx", "Proposal\_v2.docx". For better tracking, add dates: "Proposal\_2024-06-01\_v2.docx".
+Avoid ambiguous tags like "Final" or "Latest" in file names, as they quickly become obsolete. Instead, use version numbers: "Proposal_v1.docx", "Proposal_v2.docx". For better tracking, add dates: "Proposal_2024-06-01_v2.docx".
 
 5\. Are You Embedding Context in File Names?
 
-Files without context—like "Notes.docx"—are hard to find later. Add project names, dates, or other identifiers: "Q4\_Sales\_Notes\_2024-06.docx". This prevents accidental overwrites and simplifies searches.
+Files without context—like "Notes.docx"—are hard to find later. Add project names, dates, or other identifiers: "Q4_Sales_Notes_2024-06.docx". This prevents accidental overwrites and simplifies searches.
 
 6\. Do You Keep File Names Short but Meaningful?
 
@@ -67,7 +67,7 @@ Windows supports file metadata and tags, especially for office documents and ima
 
 14\. Do You Avoid Redundant Information?
 
-Don’t repeat folder names in every file inside them (e.g., "Invoices\\Invoices\_2024-06.pdf"). Let the folder structure provide context and keep file names focused on unique identifiers.
+Don’t repeat folder names in every file inside them (e.g., "Invoices\\Invoices_2024-06.pdf"). Let the folder structure provide context and keep file names focused on unique identifiers.
 
 15\. Have You Documented Your Naming and Organization Strategy?
 

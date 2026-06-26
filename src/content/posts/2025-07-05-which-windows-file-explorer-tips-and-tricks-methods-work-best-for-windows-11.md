@@ -2,7 +2,7 @@
 title: "Which Windows file explorer tips and tricks Methods Work Best for Windows 11?"
 date: 2025-07-05
 slug: "which-windows-file-explorer-tips-and-tricks-methods-work-best-for-windows-11"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---

@@ -2,7 +2,7 @@
 title: "Windows Tools Makes File Search and Indexing Techniques Management Simple in Windows"
 date: 2025-06-08
 slug: "windows-tools-makes-file-search-and-indexing-techniques-management-simple-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

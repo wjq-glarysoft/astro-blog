@@ -2,7 +2,7 @@
 title: "12 Glary Utilities Features for Better File Recovery Methods Management"
 date: 2025-04-26
 slug: "12-glary-utilities-features-for-better-file-recovery-methods-management"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

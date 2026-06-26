@@ -2,7 +2,7 @@
 title: "The 7 Most Effective Windows System Monitoring and Analysis Strategies for Windows 10"
 date: 2025-06-27
 slug: "the-7-most-effective-windows-system-monitoring-and-analysis-strategies-for-windows-10-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

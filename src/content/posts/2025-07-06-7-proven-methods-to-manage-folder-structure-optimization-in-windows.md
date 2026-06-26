@@ -2,7 +2,7 @@
 title: "7 Proven Methods to Manage Folder Structure Optimization in Windows"
 date: 2025-07-06
 slug: "7-proven-methods-to-manage-folder-structure-optimization-in-windows"
-categories: 
+categories:
   - "files-folders"
 author: "Skher"
 ---
@@ -29,9 +29,9 @@ Practical Tip: Keep your main categories broad but distinct, so every file has a
 
 2\. Use Clear and Consistent Naming Conventions
 
-Adopt a naming style and stick to it. Use descriptive folder and file names that make sense even months later. For example: “Invoices\_2024” instead of just “Invoices.” Avoid using ambiguous names like “New Folder (2)”.
+Adopt a naming style and stick to it. Use descriptive folder and file names that make sense even months later. For example: “Invoices_2024” instead of just “Invoices.” Avoid using ambiguous names like “New Folder (2)”.
 
-Real-World Example: For photography, use “2024-06\_Tokyo\_Trip” instead of “Trip1”.
+Real-World Example: For photography, use “2024-06_Tokyo_Trip” instead of “Trip1”.
 
 3\. Archive or Delete Old Files Regularly
 

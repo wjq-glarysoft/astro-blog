@@ -2,7 +2,7 @@
 title: "Can Built-in Features Help with Windows System Monitoring Tools? A Complete Guide for Windows Users"
 date: 2025-06-22
 slug: "can-built-in-features-help-with-windows-system-monitoring-tools-a-complete-guide-for-windows-users-3"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

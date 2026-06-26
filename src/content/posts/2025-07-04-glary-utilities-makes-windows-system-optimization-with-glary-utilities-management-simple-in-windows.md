@@ -2,7 +2,7 @@
 title: "Glary Utilities Makes Windows System Optimization with Glary Utilities Management Simple in Windows"
 date: 2025-07-04
 slug: "glary-utilities-makes-windows-system-optimization-with-glary-utilities-management-simple-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Finn"
 ---

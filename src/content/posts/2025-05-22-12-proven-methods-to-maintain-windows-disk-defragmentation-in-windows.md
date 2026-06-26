@@ -2,7 +2,7 @@
 title: "12 Proven Methods to Maintain Windows Disk Defragmentation in Windows"
 date: 2025-05-22
 slug: "12-proven-methods-to-maintain-windows-disk-defragmentation-in-windows"
-categories: 
+categories:
   - "optimize-improve"
 author: "Nova"
 ---

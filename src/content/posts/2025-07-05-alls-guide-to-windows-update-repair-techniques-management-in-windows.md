@@ -2,7 +2,7 @@
 title: "All's Guide to Windows Update Repair Techniques Management in Windows"
 date: 2025-07-05
 slug: "alls-guide-to-windows-update-repair-techniques-management-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

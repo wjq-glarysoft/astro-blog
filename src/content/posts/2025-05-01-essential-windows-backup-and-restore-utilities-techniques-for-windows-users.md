@@ -2,7 +2,7 @@
 title: "Essential Windows Backup and Restore Utilities Techniques for Windows Users"
 date: 2025-05-01
 slug: "essential-windows-backup-and-restore-utilities-techniques-for-windows-users"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

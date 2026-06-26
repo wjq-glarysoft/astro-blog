@@ -2,7 +2,7 @@
 title: "12 Built-in Features for Better Windows Security Settings Configuration Management"
 date: 2025-06-23
 slug: "12-built-in-features-for-better-windows-security-settings-configuration-management"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

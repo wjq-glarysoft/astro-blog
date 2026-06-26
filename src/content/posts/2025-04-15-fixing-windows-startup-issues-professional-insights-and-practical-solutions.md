@@ -2,7 +2,7 @@
 title: "Fixing Windows Startup Issues: Professional Insights and Practical Solutions"
 date: 2025-04-15
 slug: "fixing-windows-startup-issues-professional-insights-and-practical-solutions"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Finn"
 ---

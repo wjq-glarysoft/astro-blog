@@ -2,7 +2,7 @@
 title: "Advanced's Guide to Junk File Removal Strategies Management in Windows"
 date: 2025-06-23
 slug: "advanceds-guide-to-junk-file-removal-strategies-management-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

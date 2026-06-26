@@ -2,7 +2,7 @@
 title: "Top 10 Ways to Repair File Backup Strategies in Windows 11"
 date: 2025-06-27
 slug: "top-10-ways-to-repair-file-backup-strategies-in-windows-11"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---

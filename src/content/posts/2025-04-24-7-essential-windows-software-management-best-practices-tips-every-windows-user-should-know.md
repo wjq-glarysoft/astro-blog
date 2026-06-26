@@ -2,7 +2,7 @@
 title: "7 Essential Windows Software Management Best Practices Tips Every Windows User Should Know"
 date: 2025-04-24
 slug: "7-essential-windows-software-management-best-practices-tips-every-windows-user-should-know"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---

@@ -2,7 +2,7 @@
 title: "Which file search and indexing techniques Methods Work Best for Windows 10?"
 date: 2025-05-29
 slug: "which-file-search-and-indexing-techniques-methods-work-best-for-windows-10"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

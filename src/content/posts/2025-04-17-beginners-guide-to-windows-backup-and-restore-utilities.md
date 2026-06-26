@@ -2,7 +2,7 @@
 title: "Beginner's Guide to Windows Backup and Restore Utilities"
 date: 2025-04-17
 slug: "beginners-guide-to-windows-backup-and-restore-utilities"
-categories: 
+categories:
   - "system-tools"
 author: "Nova"
 ---

@@ -2,7 +2,7 @@
 title: "12 Essential Windows Secure Browsing Techniques Every Windows User Should Know"
 date: 2025-05-07
 slug: "12-essential-windows-secure-browsing-techniques-every-windows-user-should-know"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

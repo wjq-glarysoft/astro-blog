@@ -2,7 +2,7 @@
 title: "Best Practices for Windows Performance Troubleshooting"
 date: 2025-04-17
 slug: "best-practices-for-windows-performance-troubleshooting"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

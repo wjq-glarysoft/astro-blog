@@ -2,7 +2,7 @@
 title: "Essential Windows System Tool Customization Techniques for Windows Users"
 date: 2025-06-23
 slug: "essential-windows-system-tool-customization-techniques-for-windows-users-3"
-categories: 
+categories:
   - "system-tools"
 author: "Finn"
 ---

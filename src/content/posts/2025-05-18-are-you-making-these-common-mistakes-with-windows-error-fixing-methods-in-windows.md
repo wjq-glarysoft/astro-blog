@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Windows Error Fixing Methods in Windows?"
 date: 2025-05-18
 slug: "are-you-making-these-common-mistakes-with-windows-error-fixing-methods-in-windows"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Finn"
 ---

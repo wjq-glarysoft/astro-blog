@@ -2,7 +2,7 @@
 title: "7 Built-in Features for Better File Backup Strategies Management"
 date: 2025-06-22
 slug: "7-built-in-features-for-better-file-backup-strategies-management"
-categories: 
+categories:
   - "files-folders"
 author: "Nova"
 ---
@@ -65,7 +65,7 @@ Time-saving security: In the event of theft or loss, your backup files remain sa
 
 Advanced users can leverage command line utilities like Robocopy and PowerShell scripts for custom backup strategies. These tools allow granular control over which files are copied, how often, and where backups are stored.
 
-Example Robocopy command: robocopy C:\\Users\\YourName\\Documents D:\\Backup\\Documents /MIR /Z /LOG:backup\_log.txt
+Example Robocopy command: robocopy C:\\Users\\YourName\\Documents D:\\Backup\\Documents /MIR /Z /LOG:backup_log.txt
 
 This command mirrors your Documents folder to an external drive, resumes copy operations if interrupted, and logs the process.
 

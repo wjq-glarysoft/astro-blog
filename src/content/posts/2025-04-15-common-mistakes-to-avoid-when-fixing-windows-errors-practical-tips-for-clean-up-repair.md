@@ -2,7 +2,7 @@
 title: "Common Mistakes to Avoid When Fixing Windows Errors: Practical Tips for Clean Up & Repair"
 date: 2025-04-15
 slug: "common-mistakes-to-avoid-when-fixing-windows-errors-practical-tips-for-clean-up-repair"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Nova"
 ---

@@ -2,7 +2,7 @@
 title: "Which Windows firewall setup and management Methods Work Best for Windows Systems?"
 date: 2025-05-20
 slug: "which-windows-firewall-setup-and-management-methods-work-best-for-windows-systems-3"
-categories: 
+categories:
   - "privacy-security"
 author: "Jarx"
 ---

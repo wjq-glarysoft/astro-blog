@@ -2,7 +2,7 @@
 title: "Windows Performance Optimization Tips Solutions: From Basics to Advanced Techniques"
 date: 2025-06-08
 slug: "windows-performance-optimization-tips-solutions-from-basics-to-advanced-techniques-4"
-categories: 
+categories:
   - "optimize-improve"
 author: "Skher"
 ---

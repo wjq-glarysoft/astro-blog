@@ -2,7 +2,7 @@
 title: "12 Free Software Features for Better Fixing Windows Startup Issues Management"
 date: 2025-07-04
 slug: "12-free-software-features-for-better-fixing-windows-startup-issues-management"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Riley"
 ---

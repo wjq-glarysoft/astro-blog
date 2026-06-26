@@ -2,7 +2,7 @@
 title: "Can Free Software Help with Windows Security Settings Configuration? A Complete Guide for Windows Users"
 date: 2025-05-24
 slug: "can-free-software-help-with-windows-security-settings-configuration-a-complete-guide-for-windows-users"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

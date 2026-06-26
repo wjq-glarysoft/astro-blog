@@ -2,7 +2,7 @@
 title: "Windows Systems Windows data encryption methods Optimization Made Easy"
 date: 2025-05-29
 slug: "windows-systems-windows-data-encryption-methods-optimization-made-easy-2"
-categories: 
+categories:
   - "privacy-security"
 author: "Finn"
 ---

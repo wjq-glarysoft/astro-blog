@@ -2,7 +2,7 @@
 title: "Windows Privacy Enhancements Solutions: From Basics to Advanced Techniques"
 date: 2025-06-08
 slug: "windows-privacy-enhancements-solutions-from-basics-to-advanced-techniques-4"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---
@@ -47,7 +47,7 @@ How Can I Harden Windows Telemetry?
 
 Telemetry refers to data sent from your PC to Microsoft. While some telemetry is unavoidable in Windows Home and Pro, you can minimize it: - Open Group Policy Editor (Win + R, type gpedit.msc). - Navigate to Computer Configuration > Administrative Templates > Windows Components > Data Collection and Preview Builds. - Set “Allow Telemetry” to “Enabled” and select “0 – Security” (Enterprise/Education only) or “1 – Basic” for others.
 
-Alternatively, use the registry: - Open Regedit (Win + R, type regedit). - Go to HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection. - Set the AllowTelemetry DWORD to 1.
+Alternatively, use the registry: - Open Regedit (Win + R, type regedit). - Go to HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection. - Set the AllowTelemetry DWORD to 1.
 
 What About Third-Party Privacy Tools?
 

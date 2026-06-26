@@ -2,7 +2,7 @@
 title: "Are You Making These Common Mistakes with Windows System Information Tools in Windows?"
 date: 2025-06-12
 slug: "are-you-making-these-common-mistakes-with-windows-system-information-tools-in-windows-2"
-categories: 
+categories:
   - "system-tools"
 author: "Riley"
 ---

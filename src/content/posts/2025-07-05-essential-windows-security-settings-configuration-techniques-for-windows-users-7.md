@@ -2,7 +2,7 @@
 title: "Essential Windows security settings configuration Techniques for Windows Users"
 date: 2025-07-05
 slug: "essential-windows-security-settings-configuration-techniques-for-windows-users-7"
-categories: 
+categories:
   - "privacy-security"
 author: "Riley"
 ---

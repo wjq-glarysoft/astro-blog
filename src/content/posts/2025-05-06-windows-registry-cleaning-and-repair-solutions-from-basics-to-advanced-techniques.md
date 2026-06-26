@@ -2,7 +2,7 @@
 title: "Windows Registry Cleaning and Repair Solutions: From Basics to Advanced Techniques"
 date: 2025-05-06
 slug: "windows-registry-cleaning-and-repair-solutions-from-basics-to-advanced-techniques"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---
@@ -35,7 +35,7 @@ Glary Utilities not only cleans unnecessary registry entries but also optimizes 
 
 For advanced users comfortable with manual editing, cleaning specific registry keys can target particular issues.
 
-\- Open Registry Editor by pressing Windows + R, typing \`regedit\`, and pressing Enter. - Navigate to the key you want to clean. For example, to remove startup entries: - Go to \`HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\`. - Right-click on the unwanted entry and select Delete. - Confirm the action.
+\- Open Registry Editor by pressing Windows + R, typing \`regedit\`, and pressing Enter. - Navigate to the key you want to clean. For example, to remove startup entries: - Go to \`HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\`. - Right-click on the unwanted entry and select Delete. - Confirm the action.
 
 Caution: Deleting the wrong registry keys can cause serious system issues. Only remove entries you are sure are unnecessary.
 

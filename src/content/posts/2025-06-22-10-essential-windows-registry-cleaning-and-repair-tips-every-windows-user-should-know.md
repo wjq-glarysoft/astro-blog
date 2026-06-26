@@ -2,7 +2,7 @@
 title: "10 Essential Windows Registry Cleaning and Repair Tips Every Windows User Should Know"
 date: 2025-06-22
 slug: "10-essential-windows-registry-cleaning-and-repair-tips-every-windows-user-should-know"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Skher"
 ---

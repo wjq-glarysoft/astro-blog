@@ -2,7 +2,7 @@
 title: "Glary Utilities Makes Windows File Sharing and Permissions Management Simple in Windows"
 date: 2025-06-23
 slug: "glary-utilities-makes-windows-file-sharing-and-permissions-management-simple-in-windows-2"
-categories: 
+categories:
   - "files-folders"
 author: "Riley"
 ---

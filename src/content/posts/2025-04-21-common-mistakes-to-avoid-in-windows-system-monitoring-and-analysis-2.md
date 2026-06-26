@@ -2,7 +2,7 @@
 title: "Common Mistakes to Avoid in Windows System Monitoring and Analysis"
 date: 2025-04-21
 slug: "common-mistakes-to-avoid-in-windows-system-monitoring-and-analysis-2"
-categories: 
+categories:
   - "optimize-improve"
 author: "Riley"
 ---

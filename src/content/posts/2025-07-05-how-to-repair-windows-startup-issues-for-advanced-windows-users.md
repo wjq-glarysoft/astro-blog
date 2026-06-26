@@ -2,7 +2,7 @@
 title: "How to Repair Windows Startup Issues for Advanced Windows Users"
 date: 2025-07-05
 slug: "how-to-repair-windows-startup-issues-for-advanced-windows-users"
-categories: 
+categories:
   - "clean-up-repair"
 author: "Jarx"
 ---

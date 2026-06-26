@@ -2,7 +2,7 @@
 title: "Essential Windows System Optimization with Glary Utilities: Techniques for Windows Users"
 date: 2025-07-05
 slug: "essential-windows-system-optimization-with-glary-utilities-techniques-for-windows-users-5"
-categories: 
+categories:
   - "optimize-improve"
 author: "Jarx"
 ---

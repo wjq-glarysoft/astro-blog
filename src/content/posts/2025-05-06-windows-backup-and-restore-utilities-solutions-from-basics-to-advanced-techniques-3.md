@@ -2,7 +2,7 @@
 title: "Windows Backup and Restore Utilities Solutions: From Basics to Advanced Techniques"
 date: 2025-05-06
 slug: "windows-backup-and-restore-utilities-solutions-from-basics-to-advanced-techniques-3"
-categories: 
+categories:
   - "system-tools"
 author: "Jarx"
 ---

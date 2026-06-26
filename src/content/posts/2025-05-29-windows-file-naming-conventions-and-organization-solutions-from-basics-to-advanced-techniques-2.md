@@ -2,7 +2,7 @@
 title: "Windows file naming conventions and organization Solutions: From Basics to Advanced Techniques"
 date: 2025-05-29
 slug: "windows-file-naming-conventions-and-organization-solutions-from-basics-to-advanced-techniques-2"
-categories: 
+categories:
   - "files-folders"
 author: "Jarx"
 ---
@@ -21,7 +21,7 @@ Why Use Consistent Naming Patterns?
 
 A consistent file naming convention helps when searching for files, maintaining version control, and sharing files between systems. Common patterns include:
 
-\- Date first: 2024-06-18\_ProjectProposal.docx - Project first: MarketingPlan\_V2\_20240115.xlsx - Descriptive keywords: Invoice\_ClientName\_June2024.pdf
+\- Date first: 2024-06-18_ProjectProposal.docx - Project first: MarketingPlan_V2_20240115.xlsx - Descriptive keywords: Invoice_ClientName_June2024.pdf
 
 Stick to underscores (\_) or hyphens (-) as separators, as they are search-friendly and visually clear.
 
@@ -33,7 +33,7 @@ Intermediate users can benefit from structured taxonomy and automation:
 
 2\. Tagging and Metadata: While basic Windows Explorer lacks a built-in tagging system, you can use file properties (right-click, Properties → Details tab) to add keywords, author names, or other metadata to files. Third-party tools or advanced file managers can extend this capability.
 
-3\. Version Control: Instead of overwriting files, add version numbers or dates: - ProjectPlan\_V1.docx - ProjectPlan\_V2\_20240618.docx
+3\. Version Control: Instead of overwriting files, add version numbers or dates: - ProjectPlan_V1.docx - ProjectPlan_V2_20240618.docx
 
 This approach prevents confusion and facilitates easy rollback to previous versions.
 
@@ -55,9 +55,9 @@ What Are Real-World Examples of Advanced File Naming and Organization?
 
 Suppose you manage multiple projects for several clients. A sample organization and naming strategy could look like:
 
-\- Clients - ClientName - 2024 - ProjectAlpha - Docs - Alpha\_Report\_2024-06-18\_V3.docx - Alpha\_Invoice\_2024-06.pdf - Images - Alpha\_DesignMockup\_V2.png
+\- Clients - ClientName - 2024 - ProjectAlpha - Docs - Alpha_Report_2024-06-18_V3.docx - Alpha_Invoice_2024-06.pdf - Images - Alpha_DesignMockup_V2.png
 
-This method ensures every file is easy to find, share, and back up. Searching for "Alpha\_Invoice" or "2024-06" immediately reveals relevant documents.
+This method ensures every file is easy to find, share, and back up. Searching for "Alpha_Invoice" or "2024-06" immediately reveals relevant documents.
 
 What Should You Avoid in Advanced File Organization?
 

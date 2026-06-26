@@ -2,7 +2,7 @@
 title: "When Should You Backup Windows Password Protection Strategies on Your Windows Computer?"
 date: 2025-06-27
 slug: "when-should-you-backup-windows-password-protection-strategies-on-your-windows-computer"
-categories: 
+categories:
   - "privacy-security"
 author: "Skher"
 ---
